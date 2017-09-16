@@ -2,8 +2,23 @@
 
 [![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http://kyonhuang.top)
 
+## 步骤
+
+* 看题
+* 思考
+* 做题
+* 优化（提高效率、简洁代码）
+* 换语言实现
+* 看 Discuss
+* 整理总结
+
 ## 目录
 
+
+### 1.Two Sum
+
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two Sum/Readme.md)
+* [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two Sum/two-sum.js)
 
 ## 维护
 

@@ -1,0 +1,41 @@
+# Two Sum
+
+## 题目
+
+Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have *exactly* one solution, and you may not use the *same* element twice.
+
+**Example:**
+
+```
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+
+## 优化点
+
+JS 中，for 循环里的数组 length 限制，最好在 for 的第一个条件里声明一个变量 len = nums.length。这样避免每次循环都需要再计算一次，效率较高。**理论上是这样，但是测试和提交都显示 runtime 反而要稍微要多一点...**
+
+## 最佳实践
+
+```js
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+  var a = [];
+  for (var i = 0, len = nums.length; i < len; i++) {
+    var tmp = target - nums[i];
+    if (a[tmp] !== undefined) return [a[tmp], i];
+    a[nums[i]] = i;
+  }
+};
+```
+
+复杂度为 O(n)。
+
