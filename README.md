@@ -26,6 +26,11 @@
 * [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search Insert Position /search-insert-position.java)
 * [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search Insert Position /search-insert-position.js)
 
+### 540.Single Element in a Sorted Array
+
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single Element in a Sorted Array/Readme.md)
+* [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single Element in a Sorted Array/single-element-in-a-sorted-array.java)
+
 ## 维护
 
 本文档由 [yuki](https://github.com/bighuang624/yuki) 维护
