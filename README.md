@@ -12,30 +12,17 @@
 * 看 Discuss
 * 整理总结
 
-## 目录
 
+## notes
 
-### 1.Two_Sum
+* [1.Two_Sum](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/1.Two_Sum.md)
+* [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
+* [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
+* [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/Readme.md)
-* [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/two-sum.js)
+## 代码目录
 
-### 35.Search_Insert_Position
-
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/Readme.md)
-* [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/search-insert-position.java)
-* [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/search-insert-position.js)
-
-### 442.Find_All_Duplicates_in_an_Array
-
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/Readme.md)
-* [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.java)
-* [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.py)
-
-### 540.Single_Element_in_a_Sorted_Array
-
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single_Element_in_a_Sorted_Array/Readme.md)
-* [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
+相关代码请见[代码目录](https://github.com/bighuang624/LeetCode-everyday/blob/master/code)
 
 ## 维护
 

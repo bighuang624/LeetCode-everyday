@@ -4,9 +4,9 @@
     "index": "https://github.com/bighuang624/LeetCode-everyday",
     "branch": "master"
   },
-  "startLevel": 2,
+  "startLevel": 1,
   "ignore": {
-    "dir": [".git"],
+    "dir": [".git", "code"],
     "file": [
       "yuki.config.json",
       ".gitignore",
@@ -26,12 +26,13 @@
       "title": "步骤",
       "level": 2,
       "content": "* 看题\n* 思考\n* 做题\n* 优化（提高效率、简洁代码）\n* 换语言实现\n* 看 Discuss\n* 整理总结"
-    }, {
-      "title": "目录",
-      "level": 2
     }
   ],
   "append": [{
+      "title": "代码目录",
+      "level": 2,
+      "content": "相关代码详见[代码目录](https://github.com/bighuang624/LeetCode-everyday/blob/master/code)"
+    },{
       "title": "维护",
       "level": 2,
       "content": "本文档由 [yuki](https://github.com/bighuang624/yuki) 维护"
