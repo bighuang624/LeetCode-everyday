@@ -20,17 +20,17 @@
 * [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/Readme.md)
 * [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/two-sum.js)
 
-### 35.Search_Insert_Position 
+### 35.Search_Insert_Position
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /Readme.md)
-* [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /search-insert-position.java)
-* [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /search-insert-position.js)
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/Readme.md)
+* [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/search-insert-position.java)
+* [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position/search-insert-position.js)
 
-### 442.Find_All_Duplicates_in_an_Array 
+### 442.Find_All_Duplicates_in_an_Array
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /Readme.md)
-* [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /find-all-duplicates-in-an-array.java)
-* [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /find-all-duplicates-in-an-array.py)
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/Readme.md)
+* [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.java)
+* [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.py)
 
 ### 540.Single_Element_in_a_Sorted_Array
 
