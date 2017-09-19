@@ -15,21 +15,27 @@
 ## 目录
 
 
-### 1.Two Sum
+### 1.Two_Sum
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two Sum/Readme.md)
-* [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two Sum/two-sum.js)
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/Readme.md)
+* [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/1.Two_Sum/two-sum.js)
 
-### 35.Search Insert Position 
+### 35.Search_Insert_Position 
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search Insert Position /Readme.md)
-* [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search Insert Position /search-insert-position.java)
-* [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search Insert Position /search-insert-position.js)
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /Readme.md)
+* [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /search-insert-position.java)
+* [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/35.Search_Insert_Position /search-insert-position.js)
 
-### 540.Single Element in a Sorted Array
+### 442.Find_All_Duplicates_in_an_Array 
 
-* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single Element in a Sorted Array/Readme.md)
-* [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single Element in a Sorted Array/single-element-in-a-sorted-array.java)
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /Readme.md)
+* [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /find-all-duplicates-in-an-array.java)
+* [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/442.Find_All_Duplicates_in_an_Array /find-all-duplicates-in-an-array.py)
+
+### 540.Single_Element_in_a_Sorted_Array
+
+* [Readme](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single_Element_in_a_Sorted_Array/Readme.md)
+* [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
 
 ## 维护
 
