@@ -19,10 +19,11 @@
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
+* [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
 
 ## 代码目录
 
-相关代码请见[代码目录](https://github.com/bighuang624/LeetCode-everyday/blob/master/code)
+相关代码详见[代码目录](https://github.com/bighuang624/LeetCode-everyday/blob/master/code)
 
 ## 维护
 
