@@ -5,13 +5,13 @@
 
 * [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/1.Two_Sum/two-sum.js)
 
-### 7.Reverse_Integer
-
-* [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
-
 ### 26.Remove_Duplicates_from_Sorted_Array
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
+
+### 27.Remove_Element
+
+* [remove-element.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/27.Remove_Element/remove-element.js)
 
 ### 35.Search_Insert_Position
 
@@ -26,4 +26,8 @@
 ### 540.Single_Element_in_a_Sorted_Array
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
+
+### 7.Reverse_Integer
+
+* [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
 
