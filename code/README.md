@@ -13,6 +13,10 @@
 
 * [remove-element.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/27.Remove_Element/remove-element.js)
 
+### 28.Implement_strStr()
+
+* [implement-strstr.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/28.Implement_strStr()/implement-strstr.js)
+
 ### 35.Search_Insert_Position
 
 * [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.java)
