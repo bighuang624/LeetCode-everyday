@@ -17,6 +17,10 @@
 
 * [implement-strstr.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/28.Implement_strStr()/implement-strstr.js)
 
+### 32.Longest_Valid_Parentheses
+
+* [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
+
 ### 35.Search_Insert_Position
 
 * [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.java)
