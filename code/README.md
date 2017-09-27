@@ -35,6 +35,10 @@
 * [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.java)
 * [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.py)
 
+### 461.Hamming_Distance
+
+* [hamming-distance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/461.Hamming_Distance/hamming-distance.java)
+
 ### 540.Single_Element_in_a_Sorted_Array
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)

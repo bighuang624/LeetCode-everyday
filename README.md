@@ -23,6 +23,7 @@
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
+* [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 * [58.Length_of_Last_Word](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/58.Length_of_Last_Word.md)
 * [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
