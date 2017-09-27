@@ -43,6 +43,10 @@
 
 * [length-of-last-word.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/58.Length_of_Last_Word/length-of-last-word.js)
 
+### 595.Big_Countries
+
+* [big-countries.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/595.Big_Countries/big-countries.sql)
+
 ### 7.Reverse_Integer
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)

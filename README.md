@@ -25,6 +25,7 @@
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 * [58.Length_of_Last_Word](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/58.Length_of_Last_Word.md)
+* [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
 
 ## 代码目录
