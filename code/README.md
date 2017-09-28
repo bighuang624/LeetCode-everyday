@@ -5,6 +5,10 @@
 
 * [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/1.Two_Sum/two-sum.js)
 
+### 136.Single_Number
+
+* [single-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/136.Single_Number/single-number.js)
+
 ### 26.Remove_Duplicates_from_Sorted_Array
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
