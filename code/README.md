@@ -21,6 +21,10 @@
 
 * [implement-strstr.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/28.Implement_strStr()/implement-strstr.js)
 
+### 283.Move_Zeroes
+
+* [move-zeroes.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/283.Move_Zeroes/move-zeroes.js)
+
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
