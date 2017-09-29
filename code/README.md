@@ -55,6 +55,10 @@
 
 * [big-countries.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/595.Big_Countries/big-countries.sql)
 
+### 620.Not_Boring_Movies
+
+* [not-boring-movies.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/620.Not_Boring_Movies/not-boring-movies.sql)
+
 ### 7.Reverse_Integer
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
