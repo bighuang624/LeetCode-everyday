@@ -47,6 +47,10 @@
 
 * [hamming-distance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/461.Hamming_Distance/hamming-distance.java)
 
+### 520.Detect_Capital
+
+* [detect-capital.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/520.Detect_Capital/detect-capital.js)
+
 ### 540.Single_Element_in_a_Sorted_Array
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
