@@ -23,6 +23,7 @@
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
+* [389.Find_the Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the Difference.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
