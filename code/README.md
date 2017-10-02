@@ -34,9 +34,9 @@
 * [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.java)
 * [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.js)
 
-### 389.Find_the Difference
+### 389.Find_the_Difference
 
-* [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the Difference/find-the-difference.java)
+* [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)
 
 ### 441.Arranging_Coins
 
