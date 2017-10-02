@@ -21,6 +21,7 @@
 * [27.Remove_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/27.Remove_Element.md)
 * [28.Implement_strStr()](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/28.Implement_strStr().md)
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
+* [292.Nim_Game](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/292.Nim_Game.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)

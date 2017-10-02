@@ -25,6 +25,10 @@
 
 * [move-zeroes.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/283.Move_Zeroes/move-zeroes.js)
 
+### 292.Nim_Game
+
+* [nim-game.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/292.Nim_Game/nim-game.java)
+
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
