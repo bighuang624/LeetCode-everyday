@@ -42,6 +42,10 @@
 * [search-insert-position.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.java)
 * [search-insert-position.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/35.Search_Insert_Position/search-insert-position.js)
 
+### 374.Guess_Number_Higher_or_Lower
+
+* [guess-number-higher-or-lower.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/374.Guess_Number_Higher_or_Lower/guess-number-higher-or-lower.java)
+
 ### 389.Find_the_Difference
 
 * [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)
