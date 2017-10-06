@@ -17,6 +17,7 @@
 
 * [1.Two_Sum](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/1.Two_Sum.md)
 * [136.Single_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/136.Single_Number.md)
+* [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/26.Remove_Duplicates_from_Sorted_Array.md)
 * [27.Remove_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/27.Remove_Element.md)
 * [28.Implement_strStr()](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/28.Implement_strStr().md)

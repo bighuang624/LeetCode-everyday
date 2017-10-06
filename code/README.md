@@ -9,6 +9,10 @@
 
 * [single-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/136.Single_Number/single-number.js)
 
+### 231.Power_of_Two
+
+* [power-of-two.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/231.Power_of_Two/power-of-two.java)
+
 ### 26.Remove_Duplicates_from_Sorted_Array
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
