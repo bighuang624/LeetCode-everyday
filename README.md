@@ -27,6 +27,7 @@
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [374.Guess_Number_Higher_or_Lower](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/374.Guess_Number_Higher_or_Lower.md)
+* [383.Ransom_Note](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/383.Ransom_Note.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
