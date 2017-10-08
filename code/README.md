@@ -17,6 +17,11 @@
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
 
+### 268.Missing_Number
+
+* [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/268.Missing_Number/missing-number.java)
+* [missing-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/268.Missing_Number/missing-number.js)
+
 ### 27.Remove_Element
 
 * [remove-element.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/27.Remove_Element/remove-element.js)
