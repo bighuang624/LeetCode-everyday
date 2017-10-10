@@ -16,6 +16,7 @@
 ## notes
 
 * [1.Two_Sum](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/1.Two_Sum.md)
+* [121.Best_Time_to_Buy_and_Sell_Stock](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/121.Best_Time_to_Buy_and_Sell_Stock.md)
 * [136.Single_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/136.Single_Number.md)
 * [217.Contains_Duplicate](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/217.Contains_Duplicate.md)
 * [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)

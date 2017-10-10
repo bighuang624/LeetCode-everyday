@@ -5,6 +5,10 @@
 
 * [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/1.Two_Sum/two-sum.js)
 
+### 121.Best_Time_to_Buy_and_Sell_Stock
+
+* [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/121.Best_Time_to_Buy_and_Sell_Stock/missing-number.java)
+
 ### 136.Single_Number
 
 * [single-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/136.Single_Number/single-number.js)
