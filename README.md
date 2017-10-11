@@ -27,6 +27,7 @@
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
 * [292.Nim_Game](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/292.Nim_Game.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
+* [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [374.Guess_Number_Higher_or_Lower](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/374.Guess_Number_Higher_or_Lower.md)

@@ -7,7 +7,7 @@
 
 ### 121.Best_Time_to_Buy_and_Sell_Stock
 
-* [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/121.Best_Time_to_Buy_and_Sell_Stock/missing-number.java)
+* [best-time-to-buy-and-sell-stock.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/121.Best_Time_to_Buy_and_Sell_Stock/best-time-to-buy-and-sell-stock.java)
 
 ### 136.Single_Number
 
@@ -49,6 +49,10 @@
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
+
+### 326.Power_of_Three
+
+* [power-of-three.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/326.Power_of_Three/power-of-three.java)
 
 ### 342.Power_of_Four
 
