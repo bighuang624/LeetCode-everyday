@@ -71,6 +71,10 @@
 
 * [ransom-note.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/383.Ransom_Note/ransom-note.java)
 
+### 387.First_Unique_Character_in_a_String
+
+* [first-unique-character-in-a-string.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/387.First_Unique_Character_in_a_String/first-unique-character-in-a-string.java)
+
 ### 389.Find_the_Difference
 
 * [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)

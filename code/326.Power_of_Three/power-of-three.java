@@ -9,4 +9,4 @@ class Solution {
         if (n <= 0 || n > Max3PowerInt) return false;
         return Max3PowerInt % n == 0;
     }
-};
+}
