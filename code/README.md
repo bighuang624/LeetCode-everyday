@@ -13,6 +13,10 @@
 
 * [single-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/136.Single_Number/single-number.js)
 
+### 181.Employees_Earning_More_Than_Their_Managers
+
+* [employees-earning-more-than-their-managers.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/181.Employees_Earning_More_Than_Their_Managers/employees-earning-more-than-their-managers.sql)
+
 ### 183.Customers_Who_Never_Order
 
 * [customers-who-never-order.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/183.Customers_Who_Never_Order/customers-who-never-order.sql)
