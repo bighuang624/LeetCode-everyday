@@ -33,6 +33,10 @@
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
 
+### 263.Ugly_Number
+
+* [ugly-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/263.Ugly_Number/ugly-number.java)
+
 ### 268.Missing_Number
 
 * [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/268.Missing_Number/missing-number.java)
