@@ -91,6 +91,10 @@
 
 * [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)
 
+### 414.Third_Maximum_Number
+
+* [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/414.Third_Maximum_Number/single-element-in-a-sorted-array.java)
+
 ### 441.Arranging_Coins
 
 * [arranging-coins.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/441.Arranging_Coins/arranging-coins.js)

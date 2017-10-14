@@ -37,6 +37,7 @@
 * [383.Ransom_Note](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/383.Ransom_Note.md)
 * [387.First_Unique_Character_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/387.First_Unique_Character_in_a_String.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
+* [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [453.Minimum_Moves_to_Equal_Array_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/453.Minimum_Moves_to_Equal_Array_Elements.md)
