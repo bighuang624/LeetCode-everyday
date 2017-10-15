@@ -54,6 +54,10 @@
 
 * [move-zeroes.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/283.Move_Zeroes/move-zeroes.js)
 
+### 290.Word_Pattern
+
+* [word-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/290.Word_Pattern/word-pattern.java)
+
 ### 292.Nim_Game
 
 * [nim-game.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/292.Nim_Game/nim-game.java)
