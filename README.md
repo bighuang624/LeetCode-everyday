@@ -47,6 +47,7 @@
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 * [58.Length_of_Last_Word](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/58.Length_of_Last_Word.md)
 * [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
+* [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
