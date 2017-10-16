@@ -144,6 +144,10 @@
 
 * [judge-route-circle.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/657.Judge_Route_Circle/judge-route-circle.js)
 
+### 686.Repeated_String_Match
+
+* [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
+
 ### 7.Reverse_Integer
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)

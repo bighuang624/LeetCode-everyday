@@ -50,6 +50,7 @@
 * [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
+* [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
 
 ## 代码目录
