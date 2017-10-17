@@ -116,6 +116,10 @@
 
 * [hamming-distance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/461.Hamming_Distance/hamming-distance.java)
 
+### 476.Number_Complement
+
+* [number-complement.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/476.Number_Complement/number-complement.java)
+
 ### 520.Detect_Capital
 
 * [detect-capital.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/520.Detect_Capital/detect-capital.js)

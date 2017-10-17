@@ -8,7 +8,7 @@
 * 思考
 * 做题
 * 优化（提高效率、简洁代码）
-* 换语言实现
+* 换语言实现（为了准备机试，暂时跳过这一步，全由 Java 实现）
 * 看 Discuss
 * 整理总结
 
@@ -43,6 +43,7 @@
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [453.Minimum_Moves_to_Equal_Array_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/453.Minimum_Moves_to_Equal_Array_Elements.md)
 * [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
+* [476.Number_Complement](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/476.Number_Complement.md)
 * [520.Detect_Capital](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/520.Detect_Capital.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 * [561.Array_Partition_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/561.Array_Partition_I.md)
