@@ -124,6 +124,10 @@
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
 
+### 561.Array_Partition_I
+
+* [array-partition-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/561.Array_Partition_I/array-partition-i.java)
+
 ### 58.Length_of_Last_Word
 
 * [length-of-last-word.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/58.Length_of_Last_Word/length-of-last-word.js)

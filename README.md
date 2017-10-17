@@ -45,6 +45,7 @@
 * [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
 * [520.Detect_Capital](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/520.Detect_Capital.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
+* [561.Array_Partition_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/561.Array_Partition_I.md)
 * [58.Length_of_Last_Word](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/58.Length_of_Last_Word.md)
 * [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
 * [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
