@@ -25,6 +25,10 @@
 
 * [add-two-numbers.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/2.Add_Two_Numbers/add-two-numbers.java)
 
+### 21.Merge_Two_Sorted_Lists
+
+* [merge-two-sorted-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/21.Merge_Two_Sorted_Lists/merge-two-sorted-lists.java)
+
 ### 217.Contains_Duplicate
 
 * [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/217.Contains_Duplicate/missing-number.java)
