@@ -12,7 +12,6 @@
 * 看 Discuss
 * 整理总结
 
-* [md](https://github.com/bighuang624/LeetCode-everyday/blob/master/md)
 
 ## notes
 
@@ -25,6 +24,7 @@
 * [21.Merge_Two_Sorted_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/21.Merge_Two_Sorted_Lists.md)
 * [217.Contains_Duplicate](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/217.Contains_Duplicate.md)
 * [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)
+* [24.Swap_Nodes_in_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/24.Swap_Nodes_in_Pairs.md)
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/26.Remove_Duplicates_from_Sorted_Array.md)
 * [263.Ugly_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/263.Ugly_Number.md)
 * [268.Missing_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/268.Missing_Number.md)

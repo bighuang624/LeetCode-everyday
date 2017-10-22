@@ -37,6 +37,11 @@
 
 * [power-of-two.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/231.Power_of_Two/power-of-two.java)
 
+### 24.Swap_Nodes_in_Pairs
+
+* [swap-nodes-in-pairs.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/24.Swap_Nodes_in_Pairs/swap-nodes-in-pairs.java)
+* [swap-nodes-in-pairs.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/24.Swap_Nodes_in_Pairs/swap-nodes-in-pairs.js)
+
 ### 26.Remove_Duplicates_from_Sorted_Array
 
 * [remove-duplicates-from-sorted-array.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/26.Remove_Duplicates_from_Sorted_Array/remove-duplicates-from-sorted-array.js)
