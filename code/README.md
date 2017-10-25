@@ -189,3 +189,7 @@
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
 
+### 83.Remove_Duplicates_from_Sorted_List
+
+* [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
+
