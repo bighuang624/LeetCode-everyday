@@ -197,3 +197,7 @@
 
 * [merge-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/88.Merge_Sorted_Array/merge-sorted-array.java)
 
+### 94.Binary_Tree_Inorder_Traversal
+
+* [binary-tree-inorder-traversal.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/94.Binary_Tree_Inorder_Traversal/binary-tree-inorder-traversal.java)
+
