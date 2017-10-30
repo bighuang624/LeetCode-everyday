@@ -45,6 +45,10 @@
 
 * [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/217.Contains_Duplicate/missing-number.java)
 
+### 219.Contains_Duplicate_II
+
+* [contains-duplicate-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/219.Contains_Duplicate_II/contains-duplicate-ii.java)
+
 ### 226.Invert_Binary_Tree
 
 * [invert-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/226.Invert_Binary_Tree/invert-binary-tree.java)

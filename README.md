@@ -26,6 +26,7 @@
 * [2.Add_Two_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/2.Add_Two_Numbers.md)
 * [21.Merge_Two_Sorted_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/21.Merge_Two_Sorted_Lists.md)
 * [217.Contains_Duplicate](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/217.Contains_Duplicate.md)
+* [219.Contains_Duplicate_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/219.Contains_Duplicate_II.md)
 * [226.Invert_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/226.Invert_Binary_Tree.md)
 * [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)
 * [24.Swap_Nodes_in_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/24.Swap_Nodes_in_Pairs.md)
