@@ -205,6 +205,10 @@
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
 
+### 717.1-bit_and_2-bit_Characters
+
+* [1-bit-and-2-bit-characters.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/717.1-bit_and_2-bit_Characters/1-bit-and-2-bit-characters.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
