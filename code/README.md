@@ -185,6 +185,10 @@
 
 * [big-countries.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/595.Big_Countries/big-countries.sql)
 
+### 596.Classes_More_Than_5_Students
+
+* [classes-more-than-5-students.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/596.Classes_More_Than_5_Students/classes-more-than-5-students.sql)
+
 ### 605.Can_Place_Flowers
 
 * [word-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/605.Can_Place_Flowers/word-pattern.java)
