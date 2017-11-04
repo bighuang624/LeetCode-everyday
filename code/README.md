@@ -181,6 +181,10 @@
 
 * [array-partition-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/561.Array_Partition_I/array-partition-i.java)
 
+### 575.Distribute_Candies
+
+* [distribute-candies.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/575.Distribute_Candies/distribute-candies.java)
+
 ### 58.Length_of_Last_Word
 
 * [length-of-last-word.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/58.Length_of_Last_Word/length-of-last-word.js)
