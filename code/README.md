@@ -153,6 +153,10 @@
 * [find-all-duplicates-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.java)
 * [find-all-duplicates-in-an-array.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/442.Find_All_Duplicates_in_an_Array/find-all-duplicates-in-an-array.py)
 
+### 448.Find_All_Numbers_Disappeared_in_an_Array
+
+* [find-all-numbers-disappeared-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/448.Find_All_Numbers_Disappeared_in_an_Array/find-all-numbers-disappeared-in-an-array.java)
+
 ### 453.Minimum_Moves_to_Equal_Array_Elements
 
 * [minimum-moves-to-equal-array-elements.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/453.Minimum_Moves_to_Equal_Array_Elements/minimum-moves-to-equal-array-elements.java)
@@ -212,6 +216,10 @@
 ### 686.Repeated_String_Match
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
+
+### 693.Binary_Number_with_Alternating_Bits
+
+* [binary-number-with-alternating-bits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/693.Binary_Number_with_Alternating_Bits/binary-number-with-alternating-bits.java)
 
 ### 7.Reverse_Integer
 
