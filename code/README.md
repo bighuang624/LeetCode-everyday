@@ -140,6 +140,10 @@
 
 * [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)
 
+### 412.Fizz_Buzz
+
+* [fizz-buzz.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/412.Fizz_Buzz/fizz-buzz.java)
+
 ### 414.Third_Maximum_Number
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/414.Third_Maximum_Number/single-element-in-a-sorted-array.java)
