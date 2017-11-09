@@ -66,7 +66,7 @@
 * [58.Length_of_Last_Word](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/58.Length_of_Last_Word.md)
 * [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
 * [596.Classes_More_Than_5_Students](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/596.Classes_More_Than_5_Students.md)
-* [599. Minimum Index Sum of Two Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/599. Minimum Index Sum of Two Lists.md)
+* [599.Minimum_Index_Sum_of_Two_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/599.Minimum_Index_Sum_of_Two_Lists.md)
 * [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)

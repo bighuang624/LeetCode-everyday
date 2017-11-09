@@ -209,9 +209,9 @@
 
 * [classes-more-than-5-students.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/596.Classes_More_Than_5_Students/classes-more-than-5-students.sql)
 
-### 599. Minimum Index Sum of Two Lists
+### 599.Minimum_Index_Sum_of_Two_Lists
 
-* [minimum-index-sum-of-two-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/599. Minimum Index Sum of Two Lists/minimum-index-sum-of-two-lists.java)
+* [minimum-index-sum-of-two-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/599.Minimum_Index_Sum_of_Two_Lists/minimum-index-sum-of-two-lists.java)
 
 ### 605.Can_Place_Flowers
 
