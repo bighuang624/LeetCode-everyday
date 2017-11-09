@@ -83,6 +83,10 @@
 
 * [remove-element.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/27.Remove_Element/remove-element.js)
 
+### 278.First_Bad_Version
+
+* [first-bad-version.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/278.First_Bad_Version/first-bad-version.java)
+
 ### 28.Implement_strStr()
 
 * [implement-strstr.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/28.Implement_strStr()/implement-strstr.js)
@@ -204,6 +208,10 @@
 ### 596.Classes_More_Than_5_Students
 
 * [classes-more-than-5-students.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/596.Classes_More_Than_5_Students/classes-more-than-5-students.sql)
+
+### 599. Minimum Index Sum of Two Lists
+
+* [minimum-index-sum-of-two-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/599. Minimum Index Sum of Two Lists/minimum-index-sum-of-two-lists.java)
 
 ### 605.Can_Place_Flowers
 
