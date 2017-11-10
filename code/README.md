@@ -221,6 +221,10 @@
 
 * [not-boring-movies.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/620.Not_Boring_Movies/not-boring-movies.sql)
 
+### 654.Maximum_Binary_Tree
+
+* [maximum-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/654.Maximum_Binary_Tree/maximum-binary-tree.java)
+
 ### 657.Judge_Route_Circle
 
 * [judge-route-circle.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/657.Judge_Route_Circle/judge-route-circle.js)
