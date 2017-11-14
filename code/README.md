@@ -9,6 +9,10 @@
 
 * [same-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/100.Same_Tree/same-tree.java)
 
+### 104.Maximum_Depth_of_Binary_Tree
+
+* [maximum-depth-of-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/104.Maximum_Depth_of_Binary_Tree/maximum-depth-of-binary-tree.java)
+
 ### 110.Balanced_Binary_Tree
 
 * [balanced-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/110.Balanced_Binary_Tree/balanced-binary-tree.java)
