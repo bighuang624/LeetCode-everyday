@@ -95,6 +95,10 @@
 
 * [remove-element.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/27.Remove_Element/remove-element.js)
 
+### 274.H-Index
+
+* [h-index.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/274.H-Index/h-index.java)
+
 ### 278.First_Bad_Version
 
 * [first-bad-version.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/278.First_Bad_Version/first-bad-version.java)

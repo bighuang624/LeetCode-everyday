@@ -38,6 +38,7 @@
 * [263.Ugly_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/263.Ugly_Number.md)
 * [268.Missing_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/268.Missing_Number.md)
 * [27.Remove_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/27.Remove_Element.md)
+* [274.H-Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/274.H-Index.md)
 * [278.First_Bad_Version](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/278.First_Bad_Version.md)
 * [28.Implement_strStr()](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/28.Implement_strStr().md)
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
