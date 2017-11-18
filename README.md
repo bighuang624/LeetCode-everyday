@@ -62,6 +62,7 @@
 * [453.Minimum_Moves_to_Equal_Array_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/453.Minimum_Moves_to_Equal_Array_Elements.md)
 * [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
 * [476.Number_Complement](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/476.Number_Complement.md)
+* [492.Construct_the_Rectangle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/492.Construct_the_Rectangle.md)
 * [513.Find_Bottom_Left_Tree_Value](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/513.Find_Bottom_Left_Tree_Value.md)
 * [520.Detect_Capital](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/520.Detect_Capital.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
