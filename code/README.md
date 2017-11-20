@@ -45,6 +45,10 @@
 
 * [add-two-numbers.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/2.Add_Two_Numbers/add-two-numbers.java)
 
+### 202.Happy_Number
+
+* [happy-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/202.Happy_Number/happy-number.java)
+
 ### 203.Remove_Linked_List_Elements
 
 * [remove-linked-list-elements.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/203.Remove_Linked_List_Elements/remove-linked-list-elements.java)
