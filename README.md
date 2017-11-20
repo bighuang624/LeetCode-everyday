@@ -56,6 +56,7 @@
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
 * [412.Fizz_Buzz](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/412.Fizz_Buzz.md)
 * [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
+* [434.Number_of_Segments_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/434.Number_of_Segments_in_a_String.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)
 * [448.Find_All_Numbers_Disappeared_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/448.Find_All_Numbers_Disappeared_in_an_Array.md)
