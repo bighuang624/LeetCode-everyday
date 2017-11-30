@@ -217,6 +217,10 @@
 
 * [detect-capital.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/520.Detect_Capital/detect-capital.js)
 
+### 539.Minimum_Time_Difference
+
+* [minimum-time-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/539.Minimum_Time_Difference/minimum-time-difference.java)
+
 ### 540.Single_Element_in_a_Sorted_Array
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
