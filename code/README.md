@@ -156,6 +156,10 @@
 
 * [count-and-say.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/38.Count_and_Say/count-and-say.java)
 
+### 382.Linked_List_Random_Node
+
+* [linked-list-random-node.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/382.Linked_List_Random_Node/linked-list-random-node.java)
+
 ### 383.Ransom_Note
 
 * [ransom-note.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/383.Ransom_Note/ransom-note.java)
