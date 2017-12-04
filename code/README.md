@@ -293,6 +293,10 @@
 
 * [judge-route-circle.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/657.Judge_Route_Circle/judge-route-circle.js)
 
+### 665.Non-decreasing_Array
+
+* [non-decreasing-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/665.Non-decreasing_Array/non-decreasing-array.java)
+
 ### 686.Repeated_String_Match
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
