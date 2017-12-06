@@ -277,6 +277,10 @@
 
 * [word-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/605.Can_Place_Flowers/word-pattern.java)
 
+### 606.Construct_String_from_Binary_Tree
+
+* [construct-string-from-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/606.Construct_String_from_Binary_Tree/construct-string-from-binary-tree.java)
+
 ### 620.Not_Boring_Movies
 
 * [not-boring-movies.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/620.Not_Boring_Movies/not-boring-movies.sql)
