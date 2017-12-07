@@ -1,3 +1,7 @@
+// Source : https://leetcode.com/problems/construct-string-from-binary-tree/
+// Author : Kyon Huang
+// Date   : 2017-12-06
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -241,6 +241,10 @@
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/540.Single_Element_in_a_Sorted_Array/single-element-in-a-sorted-array.java)
 
+### 543.Diameter_of_Binary_Tree
+
+* [diameter-of-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/543.Diameter_of_Binary_Tree/diameter-of-binary-tree.java)
+
 ### 551.Student_Attendance_Record_I
 
 * [student-attendance-record-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/551.Student_Attendance_Record_I/student-attendance-record-i.java)
