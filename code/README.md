@@ -309,6 +309,10 @@
 
 * [non-decreasing-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/665.Non-decreasing_Array/non-decreasing-array.java)
 
+### 671.Second_Minimum_Node_In_a_Binary_Tree
+
+* [second-minimum-node-in-a-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/671.Second_Minimum_Node_In_a_Binary_Tree/second-minimum-node-in-a-binary-tree.java)
+
 ### 686.Repeated_String_Match
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)

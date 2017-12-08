@@ -12,7 +12,6 @@
 * 看 Discuss
 * 整理总结
 
-* [package.json](https://github.com/bighuang624/LeetCode-everyday/blob/master/package.json)
 
 ## notes
 
@@ -92,6 +91,7 @@
 * [654.Maximum_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/654.Maximum_Binary_Tree.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
 * [665.Non-decreasing_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/665.Non-decreasing_Array.md)
+* [671.Second_Minimum_Node_In_a_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/671.Second_Minimum_Node_In_a_Binary_Tree.md)
 * [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
