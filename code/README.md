@@ -229,6 +229,10 @@
 
 * [detect-capital.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/520.Detect_Capital/detect-capital.js)
 
+### 530.Minimum_Absolute_Difference_in_BST
+
+* [minimum-absolute-difference-in-bst.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/530.Minimum_Absolute_Difference_in_BST/minimum-absolute-difference-in-bst.java)
+
 ### 537.Complex_Number_Multiplication
 
 * [complex-number-multiplication.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/537.Complex_Number_Multiplication/complex-number-multiplication.java)
