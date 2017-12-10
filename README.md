@@ -50,6 +50,7 @@
 * [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [344.Reverse_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/344.Reverse_String.md)
+* [345.Reverse_Vowels_of_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/345.Reverse_Vowels_of_a_String.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [374.Guess_Number_Higher_or_Lower](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/374.Guess_Number_Higher_or_Lower.md)
 * [38.Count_and_Say](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/38.Count_and_Say.md)
