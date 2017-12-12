@@ -225,6 +225,10 @@
 
 * [construct-the-rectangle:description.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/492.Construct_the_Rectangle/construct-the-rectangle:description.java)
 
+### 501.Find_Mode_in_Binary_Search_Tree
+
+* [find-mode-in-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/501.Find_Mode_in_Binary_Search_Tree/find-mode-in-binary-search-tree.java)
+
 ### 513.Find_Bottom_Left_Tree_Value
 
 * [find-bottom-left-tree-value.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/513.Find_Bottom_Left_Tree_Value/find-bottom-left-tree-value.java)
