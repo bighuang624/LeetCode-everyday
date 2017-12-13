@@ -59,6 +59,7 @@
 * [383.Ransom_Note](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/383.Ransom_Note.md)
 * [387.First_Unique_Character_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/387.First_Unique_Character_in_a_String.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
+* [404.Sum_of_Left_Leaves](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/404.Sum_of_Left_Leaves.md)
 * [412.Fizz_Buzz](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/412.Fizz_Buzz.md)
 * [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
 * [434.Number_of_Segments_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/434.Number_of_Segments_in_a_String.md)
