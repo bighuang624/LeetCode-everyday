@@ -104,6 +104,7 @@
 * [724.Find_Pivot_Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/724.Find_Pivot_Index.md)
 * [728.Self_Dividing_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/728.Self_Dividing_Numbers.md)
 * [734.Sentence_Similarity](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/734.Sentence_Similarity.md)
+* [744.Find_Smallest_Letter_Greater_Than_Target](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/744.Find_Smallest_Letter_Greater_Than_Target.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [94.Binary_Tree_Inorder_Traversal](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/94.Binary_Tree_Inorder_Traversal.md)

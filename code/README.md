@@ -361,6 +361,10 @@
 
 * [sentence-similarity.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/734.Sentence_Similarity/sentence-similarity.java)
 
+### 744.Find_Smallest_Letter_Greater_Than_Target
+
+* [find-smallest-letter-greater-than-target.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/744.Find_Smallest_Letter_Greater_Than_Target/find-smallest-letter-greater-than-target.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
