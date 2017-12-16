@@ -21,6 +21,10 @@
 
 * [minimum-depth-of-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/111.Minimum_Depth_of_Binary_Tree/minimum-depth-of-binary-tree.java)
 
+### 112.Path_Sum
+
+* [path-sum.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/112.Path_Sum/path-sum.java)
+
 ### 118.Pascal's_Triangle
 
 * [pascals-triangle.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/118.Pascal's_Triangle/pascals-triangle.java)

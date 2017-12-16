@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/linked-list-cycle/
 // Author : Kyon Huang
-// Date   : 2017-12-15
+// Date   : 2017-12-16
 
 /**
  * Definition for singly-linked list.
