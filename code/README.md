@@ -353,6 +353,10 @@
 
 * [binary-number-with-alternating-bits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/693.Binary_Number_with_Alternating_Bits/binary-number-with-alternating-bits.java)
 
+### 695.Max_Area_of_Island
+
+* [max-area-of-island.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/695.Max_Area_of_Island/max-area-of-island.java)
+
 ### 7.Reverse_Integer
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
