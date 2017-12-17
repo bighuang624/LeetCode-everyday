@@ -83,6 +83,7 @@
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
 * [543.Diameter_of_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/543.Diameter_of_Binary_Tree.md)
 * [551.Student_Attendance_Record_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/551.Student_Attendance_Record_I.md)
+* [553.Optimal_Division](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/553.Optimal_Division.md)
 * [557.Reverse_Words_in_a_String_III](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/557.Reverse_Words_in_a_String_III.md)
 * [561.Array_Partition_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/561.Array_Partition_I.md)
 * [575.Distribute_Candies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/575.Distribute_Candies.md)

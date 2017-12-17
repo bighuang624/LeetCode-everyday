@@ -277,6 +277,10 @@
 
 * [student-attendance-record-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/551.Student_Attendance_Record_I/student-attendance-record-i.java)
 
+### 553.Optimal_Division
+
+* [optimal-division.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/553.Optimal_Division/optimal-division.java)
+
 ### 557.Reverse_Words_in_a_String_III
 
 * [reverse-words-in-a-string-iii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/557.Reverse_Words_in_a_String_III/reverse-words-in-a-string-iii.java)
