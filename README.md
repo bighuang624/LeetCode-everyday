@@ -106,6 +106,7 @@
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
 * [695.Max_Area_of_Island](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/695.Max_Area_of_Island.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
+* [70.Climbing_Stairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/70.Climbing_Stairs.md)
 * [717.1-bit_and_2-bit_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/717.1-bit_and_2-bit_Characters.md)
 * [724.Find_Pivot_Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/724.Find_Pivot_Index.md)
 * [728.Self_Dividing_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/728.Self_Dividing_Numbers.md)
