@@ -341,6 +341,10 @@
 
 * [set-mismatch.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/645.Set_Mismatch/set-mismatch.java)
 
+### 646.Maximum_Length_of_Pair_Chain
+
+* [maximum-length-of-pair-chain.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/646.Maximum_Length_of_Pair_Chain/maximum-length-of-pair-chain.java)
+
 ### 654.Maximum_Binary_Tree
 
 * [maximum-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/654.Maximum_Binary_Tree/maximum-binary-tree.java)
