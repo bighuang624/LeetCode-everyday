@@ -115,6 +115,7 @@
 * [734.Sentence_Similarity](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/734.Sentence_Similarity.md)
 * [739.Daily_Temperatures](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/739.Daily_Temperatures.md)
 * [744.Find_Smallest_Letter_Greater_Than_Target](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/744.Find_Smallest_Letter_Greater_Than_Target.md)
+* [746.Min_Cost_Climbing_Stairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/746.Min_Cost_Climbing_Stairs.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [94.Binary_Tree_Inorder_Traversal](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/94.Binary_Tree_Inorder_Traversal.md)
