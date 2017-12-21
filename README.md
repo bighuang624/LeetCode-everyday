@@ -80,6 +80,7 @@
 * [513.Find_Bottom_Left_Tree_Value](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/513.Find_Bottom_Left_Tree_Value.md)
 * [515.Find_Largest_Value_in_Each_Tree_Row](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/515.Find_Largest_Value_in_Each_Tree_Row.md)
 * [520.Detect_Capital](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/520.Detect_Capital.md)
+* [53.Maximum_Subarray](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/53.Maximum_Subarray.md)
 * [530.Minimum_Absolute_Difference_in_BST](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/530.Minimum_Absolute_Difference_in_BST.md)
 * [537.Complex_Number_Multiplication](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/537.Complex_Number_Multiplication.md)
 * [539.Minimum_Time_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/539.Minimum_Time_Difference.md)
