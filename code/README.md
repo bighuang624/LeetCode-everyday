@@ -147,6 +147,10 @@
 
 * [nim-game.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/292.Nim_Game/nim-game.java)
 
+### 303.Range_Sum_Query-Immutable
+
+* [range-sum-query-immutable.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/303.Range_Sum_Query-Immutable/range-sum-query-immutable.java)
+
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
