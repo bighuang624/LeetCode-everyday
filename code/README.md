@@ -49,6 +49,10 @@
 
 * [two-sum-ii-input-array-is-sorted.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/167.Two_Sum_II_-_Input_array_is_sorted/two-sum-ii-input-array-is-sorted.java)
 
+### 169.Majority_Element
+
+* [majority-element.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/169.Majority_Element/majority-element.java)
+
 ### 181.Employees_Earning_More_Than_Their_Managers
 
 * [employees-earning-more-than-their-managers.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/181.Employees_Earning_More_Than_Their_Managers/employees-earning-more-than-their-managers.sql)
