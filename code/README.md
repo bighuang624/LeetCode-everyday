@@ -357,6 +357,10 @@
 
 * [average-of-levels-in-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/637.Average_of_Levels_in_Binary_Tree/average-of-levels-in-binary-tree.java)
 
+### 643.Maximum_Average_Subarray_I
+
+* [maximum-average-subarray-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/643.Maximum_Average_Subarray_I/maximum-average-subarray-i.java)
+
 ### 645.Set_Mismatch
 
 * [set-mismatch.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/645.Set_Mismatch/set-mismatch.java)
