@@ -257,6 +257,10 @@
 
 * [number-complement.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/476.Number_Complement/number-complement.java)
 
+### 482.License_Key_Formatting
+
+* [license-key-formatting.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/482.License_Key_Formatting/license-key-formatting.java)
+
 ### 485.Max_Consecutive_Ones
 
 * [max-consecutive-ones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/485.Max_Consecutive_Ones/max-consecutive-ones.java)

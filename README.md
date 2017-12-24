@@ -78,6 +78,7 @@
 * [461.Hamming_Distance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/461.Hamming_Distance.md)
 * [463.Island_Perimeter](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/463.Island_Perimeter.md)
 * [476.Number_Complement](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/476.Number_Complement.md)
+* [482.License_Key_Formatting](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/482.License_Key_Formatting.md)
 * [485.Max_Consecutive_Ones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/485.Max_Consecutive_Ones.md)
 * [492.Construct_the_Rectangle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/492.Construct_the_Rectangle.md)
 * [501.Find_Mode_in_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/501.Find_Mode_in_Binary_Search_Tree.md)
