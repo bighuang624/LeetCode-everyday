@@ -42,6 +42,7 @@
 * [226.Invert_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/226.Invert_Binary_Tree.md)
 * [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)
 * [232.Implement_Queue_using_Stacks](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/232.Implement_Queue_using_Stacks.md)
+* [237.Delete_Node_in_a_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/237.Delete_Node_in_a_Linked_List.md)
 * [24.Swap_Nodes_in_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/24.Swap_Nodes_in_Pairs.md)
 * [257.Binary_Tree_Paths](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/257.Binary_Tree_Paths.md)
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/26.Remove_Duplicates_from_Sorted_Array.md)
