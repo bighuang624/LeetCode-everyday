@@ -36,6 +36,7 @@
 * [2.Add_Two_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/2.Add_Two_Numbers.md)
 * [202.Happy_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/202.Happy_Number.md)
 * [203.Remove_Linked_List_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/203.Remove_Linked_List_Elements.md)
+* [206.Reverse_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/206.Reverse_Linked_List.md)
 * [21.Merge_Two_Sorted_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/21.Merge_Two_Sorted_Lists.md)
 * [217.Contains_Duplicate](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/217.Contains_Duplicate.md)
 * [219.Contains_Duplicate_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/219.Contains_Duplicate_II.md)
