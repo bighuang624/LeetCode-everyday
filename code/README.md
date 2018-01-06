@@ -441,6 +441,10 @@
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
 
+### 690.Employee_Importance
+
+* [employee-importance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/690.Employee_Importance/employee-importance.java)
+
 ### 693.Binary_Number_with_Alternating_Bits
 
 * [binary-number-with-alternating-bits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/693.Binary_Number_with_Alternating_Bits/binary-number-with-alternating-bits.java)

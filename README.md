@@ -124,6 +124,7 @@
 * [671.Second_Minimum_Node_In_a_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/671.Second_Minimum_Node_In_a_Binary_Tree.md)
 * [677.Map_Sum_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/677.Map_Sum_Pairs.md)
 * [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
+* [690.Employee_Importance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/690.Employee_Importance.md)
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
 * [695.Max_Area_of_Island](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/695.Max_Area_of_Island.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
