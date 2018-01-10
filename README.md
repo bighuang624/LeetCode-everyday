@@ -51,6 +51,7 @@
 * [237.Delete_Node_in_a_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/237.Delete_Node_in_a_Linked_List.md)
 * [24.Swap_Nodes_in_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/24.Swap_Nodes_in_Pairs.md)
 * [257.Binary_Tree_Paths](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/257.Binary_Tree_Paths.md)
+* [258.Add_Digits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/258.Add_Digits.md)
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/26.Remove_Duplicates_from_Sorted_Array.md)
 * [260.Single_Number_III](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/260.Single_Number_III.md)
 * [263.Ugly_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/263.Ugly_Number.md)
