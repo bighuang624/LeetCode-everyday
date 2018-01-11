@@ -321,6 +321,10 @@
 
 * [construct-the-rectangle:description.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/492.Construct_the_Rectangle/construct-the-rectangle:description.java)
 
+### 496.Next_Greater_Element_I
+
+* [next-greater-element-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/496.Next_Greater_Element_I/next-greater-element-i.java)
+
 ### 501.Find_Mode_in_Binary_Search_Tree
 
 * [find-mode-in-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/501.Find_Mode_in_Binary_Search_Tree/find-mode-in-binary-search-tree.java)

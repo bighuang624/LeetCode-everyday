@@ -94,6 +94,7 @@
 * [482.License_Key_Formatting](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/482.License_Key_Formatting.md)
 * [485.Max_Consecutive_Ones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/485.Max_Consecutive_Ones.md)
 * [492.Construct_the_Rectangle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/492.Construct_the_Rectangle.md)
+* [496.Next_Greater_Element_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/496.Next_Greater_Element_I.md)
 * [501.Find_Mode_in_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/501.Find_Mode_in_Binary_Search_Tree.md)
 * [513.Find_Bottom_Left_Tree_Value](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/513.Find_Bottom_Left_Tree_Value.md)
 * [515.Find_Largest_Value_in_Each_Tree_Row](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/515.Find_Largest_Value_in_Each_Tree_Row.md)
