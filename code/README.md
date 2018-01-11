@@ -505,6 +505,10 @@
 
 * [min-cost-climbing-stairs.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/746.Min_Cost_Climbing_Stairs/min-cost-climbing-stairs.java)
 
+### 760.Find_Anagram_Mappings
+
+* [find-anagram-mappings.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/760.Find_Anagram_Mappings/find-anagram-mappings.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
