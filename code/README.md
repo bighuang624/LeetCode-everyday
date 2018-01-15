@@ -357,6 +357,10 @@
 
 * [minimum-absolute-difference-in-bst.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/530.Minimum_Absolute_Difference_in_BST/minimum-absolute-difference-in-bst.java)
 
+### 532.K-diff_Pairs_in_an_Array
+
+* [k-diff-pairs-in-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/532.K-diff_Pairs_in_an_Array/k-diff-pairs-in-an-array.java)
+
 ### 537.Complex_Number_Multiplication
 
 * [complex-number-multiplication.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/537.Complex_Number_Multiplication/complex-number-multiplication.java)

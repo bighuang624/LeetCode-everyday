@@ -103,6 +103,7 @@
 * [520.Detect_Capital](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/520.Detect_Capital.md)
 * [53.Maximum_Subarray](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/53.Maximum_Subarray.md)
 * [530.Minimum_Absolute_Difference_in_BST](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/530.Minimum_Absolute_Difference_in_BST.md)
+* [532.K-diff_Pairs_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/532.K-diff_Pairs_in_an_Array.md)
 * [537.Complex_Number_Multiplication](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/537.Complex_Number_Multiplication.md)
 * [539.Minimum_Time_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/539.Minimum_Time_Difference.md)
 * [540.Single_Element_in_a_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/540.Single_Element_in_a_Sorted_Array.md)
