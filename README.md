@@ -150,6 +150,7 @@
 * [760.Find_Anagram_Mappings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/760.Find_Anagram_Mappings.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
+* [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)
 * [94.Binary_Tree_Inorder_Traversal](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/94.Binary_Tree_Inorder_Traversal.md)
 
 ## 代码目录
