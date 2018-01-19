@@ -429,6 +429,10 @@
 
 * [minimum-index-sum-of-two-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/599.Minimum_Index_Sum_of_Two_Lists/minimum-index-sum-of-two-lists.java)
 
+### 6.ZigZag_Conversion
+
+* [zigzag-conversion.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/6.ZigZag_Conversion/zigzag-conversion.java)
+
 ### 605.Can_Place_Flowers
 
 * [word-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/605.Can_Place_Flowers/word-pattern.java)

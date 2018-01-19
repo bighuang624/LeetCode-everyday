@@ -121,6 +121,7 @@
 * [595.Big_Countries](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/595.Big_Countries.md)
 * [596.Classes_More_Than_5_Students](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/596.Classes_More_Than_5_Students.md)
 * [599.Minimum_Index_Sum_of_Two_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/599.Minimum_Index_Sum_of_Two_Lists.md)
+* [6.ZigZag_Conversion](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/6.ZigZag_Conversion.md)
 * [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
 * [606.Construct_String_from_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/606.Construct_String_from_Binary_Tree.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
