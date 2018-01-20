@@ -64,6 +64,7 @@
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
 * [290.Word_Pattern](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/290.Word_Pattern.md)
 * [292.Nim_Game](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/292.Nim_Game.md)
+* [3.Longest_Substring_Without_Repeating_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/3.Longest_Substring_Without_Repeating_Characters.md)
 * [303.Range_Sum_Query-Immutable](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/303.Range_Sum_Query-Immutable.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
 * [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
