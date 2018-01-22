@@ -133,6 +133,7 @@
 * [646.Maximum_Length_of_Pair_Chain](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/646.Maximum_Length_of_Pair_Chain.md)
 * [654.Maximum_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/654.Maximum_Binary_Tree.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
+* [66.Plus_One](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/66.Plus_One.md)
 * [665.Non-decreasing_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/665.Non-decreasing_Array.md)
 * [671.Second_Minimum_Node_In_a_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/671.Second_Minimum_Node_In_a_Binary_Tree.md)
 * [677.Map_Sum_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/677.Map_Sum_Pairs.md)

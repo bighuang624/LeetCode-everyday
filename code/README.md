@@ -477,6 +477,10 @@
 
 * [judge-route-circle.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/657.Judge_Route_Circle/judge-route-circle.js)
 
+### 66.Plus_One
+
+* [plus-one.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/66.Plus_One/plus-one.java)
+
 ### 665.Non-decreasing_Array
 
 * [non-decreasing-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/665.Non-decreasing_Array/non-decreasing-array.java)
