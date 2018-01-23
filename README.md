@@ -131,6 +131,7 @@
 * [643.Maximum_Average_Subarray_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/643.Maximum_Average_Subarray_I.md)
 * [645.Set_Mismatch](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/645.Set_Mismatch.md)
 * [646.Maximum_Length_of_Pair_Chain](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/646.Maximum_Length_of_Pair_Chain.md)
+* [647.Palindromic_Substrings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/647.Palindromic_Substrings.md)
 * [654.Maximum_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/654.Maximum_Binary_Tree.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
 * [66.Plus_One](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/66.Plus_One.md)
