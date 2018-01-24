@@ -333,6 +333,10 @@
 
 * [construct-the-rectangle:description.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/492.Construct_the_Rectangle/construct-the-rectangle:description.java)
 
+### 495.Teemo_Attacking
+
+* [teemo-attacking.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/495.Teemo_Attacking/teemo-attacking.java)
+
 ### 496.Next_Greater_Element_I
 
 * [next-greater-element-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/496.Next_Greater_Element_I/next-greater-element-i.java)
