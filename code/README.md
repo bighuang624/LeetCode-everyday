@@ -365,6 +365,10 @@
 
 * [detect-capital.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/520.Detect_Capital/detect-capital.js)
 
+### 521.Longest_Uncommon_Subsequence_I
+
+* [longest-uncommon-subsequence-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/521.Longest_Uncommon_Subsequence_I/longest-uncommon-subsequence-i.java)
+
 ### 53.Maximum_Subarray
 
 * [maximum-subarray.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/53.Maximum_Subarray/maximum-subarray.java)
