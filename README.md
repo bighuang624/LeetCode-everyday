@@ -81,6 +81,7 @@
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
 * [404.Sum_of_Left_Leaves](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/404.Sum_of_Left_Leaves.md)
 * [412.Fizz_Buzz](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/412.Fizz_Buzz.md)
+* [413.Arithmetic_Slices](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/413.Arithmetic_Slices.md)
 * [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
 * [434.Number_of_Segments_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/434.Number_of_Segments_in_a_String.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)

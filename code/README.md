@@ -268,6 +268,10 @@
 
 * [fizz-buzz.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/412.Fizz_Buzz/fizz-buzz.java)
 
+### 413.Arithmetic_Slices
+
+* [arithmetic-slices.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/413.Arithmetic_Slices/arithmetic-slices.java)
+
 ### 414.Third_Maximum_Number
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/414.Third_Maximum_Number/single-element-in-a-sorted-array.java)
