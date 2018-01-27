@@ -146,6 +146,10 @@
 * [swap-nodes-in-pairs.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/24.Swap_Nodes_in_Pairs/swap-nodes-in-pairs.java)
 * [swap-nodes-in-pairs.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/24.Swap_Nodes_in_Pairs/swap-nodes-in-pairs.js)
 
+### 242.Valid_Anagram
+
+* [valid-anagram.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/242.Valid_Anagram/valid-anagram.java)
+
 ### 257.Binary_Tree_Paths
 
 * [binary-tree-paths.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/257.Binary_Tree_Paths/binary-tree-paths.java)
