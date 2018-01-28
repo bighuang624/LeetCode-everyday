@@ -78,6 +78,7 @@
 * [38.Count_and_Say](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/38.Count_and_Say.md)
 * [382.Linked_List_Random_Node](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/382.Linked_List_Random_Node.md)
 * [383.Ransom_Note](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/383.Ransom_Note.md)
+* [384.Shuffle_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/384.Shuffle_an_Array.md)
 * [387.First_Unique_Character_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/387.First_Unique_Character_in_a_String.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
 * [404.Sum_of_Left_Leaves](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/404.Sum_of_Left_Leaves.md)

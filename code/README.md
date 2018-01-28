@@ -256,6 +256,10 @@
 
 * [ransom-note.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/383.Ransom_Note/ransom-note.java)
 
+### 384.Shuffle_an_Array
+
+* [shuffle-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/384.Shuffle_an_Array/shuffle-an-array.java)
+
 ### 387.First_Unique_Character_in_a_String
 
 * [first-unique-character-in-a-string.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/387.First_Unique_Character_in_a_String/first-unique-character-in-a-string.java)
