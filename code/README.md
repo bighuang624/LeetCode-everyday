@@ -513,6 +513,10 @@
 
 * [second-minimum-node-in-a-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/671.Second_Minimum_Node_In_a_Binary_Tree/second-minimum-node-in-a-binary-tree.java)
 
+### 676.Implement_Magic_Dictionary
+
+* [implement-magic-dictionary.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/676.Implement_Magic_Dictionary/implement-magic-dictionary.java)
+
 ### 677.Map_Sum_Pairs
 
 * [map-sum-pairs.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/677.Map_Sum_Pairs/map-sum-pairs.java)
