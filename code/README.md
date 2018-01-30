@@ -585,6 +585,10 @@
 
 * [find-anagram-mappings.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/760.Find_Anagram_Mappings/find-anagram-mappings.java)
 
+### 771.Jewels_and_Stones
+
+* [jewels-and-stones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/771.Jewels_and_Stones/jewels-and-stones.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
