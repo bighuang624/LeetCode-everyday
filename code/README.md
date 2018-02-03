@@ -81,6 +81,10 @@
 
 * [factorial-trailing-zeroes.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/172.Factorial_Trailing_Zeroes/factorial-trailing-zeroes.java)
 
+### 173.Binary_Search_Tree_Iterator
+
+* [binary-search-tree-iterator.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/173.Binary_Search_Tree_Iterator/binary-search-tree-iterator.java)
+
 ### 181.Employees_Earning_More_Than_Their_Managers
 
 * [employees-earning-more-than-their-managers.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/181.Employees_Earning_More_Than_Their_Managers/employees-earning-more-than-their-managers.sql)
