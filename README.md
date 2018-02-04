@@ -70,6 +70,7 @@
 * [303.Range_Sum_Query-Immutable](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/303.Range_Sum_Query-Immutable.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
 * [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
+* [328.Odd_Even_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/328.Odd_Even_Linked_List.md)
 * [33.Search_in_Rotated_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/33.Search_in_Rotated_Sorted_Array.md)
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [344.Reverse_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/344.Reverse_String.md)
