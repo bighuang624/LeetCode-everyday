@@ -133,6 +133,10 @@
 
 * [invert-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/226.Invert_Binary_Tree/invert-binary-tree.java)
 
+### 230.Kth_Smallest_Element_in_a_BST
+
+* [kth-smallest-element-in-a-bst.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/230.Kth_Smallest_Element_in_a_BST/kth-smallest-element-in-a-bst.java)
+
 ### 231.Power_of_Two
 
 * [power-of-two.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/231.Power_of_Two/power-of-two.java)
