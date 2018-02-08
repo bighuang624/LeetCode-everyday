@@ -157,6 +157,7 @@
 * [690.Employee_Importance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/690.Employee_Importance.md)
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
 * [695.Max_Area_of_Island](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/695.Max_Area_of_Island.md)
+* [697.Degree_of_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/697.Degree_of_an_Array.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
 * [70.Climbing_Stairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/70.Climbing_Stairs.md)
 * [717.1-bit_and_2-bit_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/717.1-bit_and_2-bit_Characters.md)

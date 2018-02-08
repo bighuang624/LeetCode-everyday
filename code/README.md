@@ -573,6 +573,10 @@
 
 * [max-area-of-island.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/695.Max_Area_of_Island/max-area-of-island.java)
 
+### 697.Degree_of_an_Array
+
+* [degree-of-an-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/697.Degree_of_an_Array/degree-of-an-array.java)
+
 ### 7.Reverse_Integer
 
 * [reverse-integer.py](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/7.Reverse_Integer/reverse-integer.py)
