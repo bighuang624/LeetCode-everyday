@@ -93,6 +93,10 @@
 
 * [customers-who-never-order.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/183.Customers_Who_Never_Order/customers-who-never-order.sql)
 
+### 189.Rotate_Array
+
+* [rotate-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/189.Rotate_Array/rotate-array.java)
+
 ### 19.Remove_Nth_Node_From_End_of_List
 
 * [remove-nth-node-from-end-of-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/19.Remove_Nth_Node_From_End_of_List/remove-nth-node-from-end-of-list.java)
@@ -148,6 +152,10 @@
 ### 237.Delete_Node_in_a_Linked_List
 
 * [delete-node-in-a-linked-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/237.Delete_Node_in_a_Linked_List/delete-node-in-a-linked-list.java)
+
+### 238.Product_of_Array_Except_Self
+
+* [product-of-array-except-self.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/238.Product_of_Array_Except_Self/product-of-array-except-self.java)
 
 ### 24.Swap_Nodes_in_Pairs
 
