@@ -32,6 +32,7 @@
 * [136.Single_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/136.Single_Number.md)
 * [141.Linked_List_Cycle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/141.Linked_List_Cycle.md)
 * [152.Maximum_Product_Subarray](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/152.Maximum_Product_Subarray.md)
+* [155.Min_Stack](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/155.Min_Stack.md)
 * [167.Two_Sum_II_-_Input_array_is_sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/167.Two_Sum_II_-_Input_array_is_sorted.md)
 * [169.Majority_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/169.Majority_Element.md)
 * [172.Factorial_Trailing_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/172.Factorial_Trailing_Zeroes.md)
