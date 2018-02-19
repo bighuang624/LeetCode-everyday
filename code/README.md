@@ -561,6 +561,10 @@
 
 * [second-minimum-node-in-a-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/671.Second_Minimum_Node_In_a_Binary_Tree/second-minimum-node-in-a-binary-tree.java)
 
+### 674.Longest_Continuous_Increasing_Subsequence
+
+* [longest-continuous-increasing-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/674.Longest_Continuous_Increasing_Subsequence/longest-continuous-increasing-subsequence.java)
+
 ### 676.Implement_Magic_Dictionary
 
 * [implement-magic-dictionary.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/676.Implement_Magic_Dictionary/implement-magic-dictionary.java)
