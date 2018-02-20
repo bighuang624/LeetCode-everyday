@@ -641,6 +641,10 @@
 
 * [find-anagram-mappings.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/760.Find_Anagram_Mappings/find-anagram-mappings.java)
 
+### 763.Partition_Labels
+
+* [partition-labels.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/763.Partition_Labels/partition-labels.java)
+
 ### 771.Jewels_and_Stones
 
 * [jewels-and-stones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/771.Jewels_and_Stones/jewels-and-stones.java)

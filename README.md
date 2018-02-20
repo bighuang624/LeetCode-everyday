@@ -174,6 +174,7 @@
 * [747.Largest_Number_At_Least_Twice_of_Others](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/747.Largest_Number_At_Least_Twice_of_Others.md)
 * [75.Sort_Colors](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/75.Sort_Colors.md)
 * [760.Find_Anagram_Mappings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/760.Find_Anagram_Mappings.md)
+* [763.Partition_Labels](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/763.Partition_Labels.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
