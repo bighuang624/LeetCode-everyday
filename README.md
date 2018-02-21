@@ -179,6 +179,7 @@
 * [760.Find_Anagram_Mappings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/760.Find_Anagram_Mappings.md)
 * [763.Partition_Labels](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/763.Partition_Labels.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
+* [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)

@@ -661,6 +661,10 @@
 
 * [jewels-and-stones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/771.Jewels_and_Stones/jewels-and-stones.java)
 
+### 781.Rabbits_in_Forest
+
+* [rabbits-in-forest.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/781.Rabbits_in_Forest/rabbits-in-forest.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
