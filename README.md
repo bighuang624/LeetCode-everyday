@@ -130,6 +130,7 @@
 * [547.Friend_Circles](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/547.Friend_Circles.md)
 * [551.Student_Attendance_Record_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/551.Student_Attendance_Record_I.md)
 * [553.Optimal_Division](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/553.Optimal_Division.md)
+* [554.Brick_Wall](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/554.Brick_Wall.md)
 * [557.Reverse_Words_in_a_String_III](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/557.Reverse_Words_in_a_String_III.md)
 * [561.Array_Partition_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/561.Array_Partition_I.md)
 * [563.Binary_Tree_Tilt](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/563.Binary_Tree_Tilt.md)

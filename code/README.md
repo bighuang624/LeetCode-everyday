@@ -465,6 +465,10 @@
 
 * [optimal-division.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/553.Optimal_Division/optimal-division.java)
 
+### 554.Brick_Wall
+
+* [brick-wall.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/554.Brick_Wall/brick-wall.java)
+
 ### 557.Reverse_Words_in_a_String_III
 
 * [reverse-words-in-a-string-iii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/557.Reverse_Words_in_a_String_III/reverse-words-in-a-string-iii.java)
