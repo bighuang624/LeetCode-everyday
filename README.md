@@ -79,6 +79,7 @@
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [344.Reverse_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/344.Reverse_String.md)
 * [345.Reverse_Vowels_of_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/345.Reverse_Vowels_of_a_String.md)
+* [347.Top_K_Frequent_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/347.Top_K_Frequent_Elements.md)
 * [349.Intersection_of_Two_Arrays](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/349.Intersection_of_Two_Arrays.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [350.Intersection_of_Two_Arrays_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/350.Intersection_of_Two_Arrays_II.md)
