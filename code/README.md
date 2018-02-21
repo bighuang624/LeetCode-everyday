@@ -613,6 +613,10 @@
 
 * [find-pivot-index.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/724.Find_Pivot_Index/find-pivot-index.java)
 
+### 725.Split_Linked_List_in_Parts
+
+* [split-linked-list-in-parts.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/725.Split_Linked_List_in_Parts/split-linked-list-in-parts.java)
+
 ### 728.Self_Dividing_Numbers
 
 * [self-dividing-numbers.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/728.Self_Dividing_Numbers/self-dividing-numbers.java)
