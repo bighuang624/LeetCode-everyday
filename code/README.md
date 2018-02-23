@@ -661,6 +661,10 @@
 
 * [partition-labels.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/763.Partition_Labels/partition-labels.java)
 
+### 769.Max_Chunks_To_Make_Sorted
+
+* [max-chunks-to-make-sorted.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/769.Max_Chunks_To_Make_Sorted/max-chunks-to-make-sorted.java)
+
 ### 771.Jewels_and_Stones
 
 * [jewels-and-stones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/771.Jewels_and_Stones/jewels-and-stones.java)
