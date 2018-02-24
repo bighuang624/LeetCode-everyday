@@ -95,6 +95,7 @@
 * [412.Fizz_Buzz](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/412.Fizz_Buzz.md)
 * [413.Arithmetic_Slices](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/413.Arithmetic_Slices.md)
 * [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
+* [419.Battleships_in_a_Board](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/419.Battleships_in_a_Board.md)
 * [434.Number_of_Segments_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/434.Number_of_Segments_in_a_String.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
 * [442.Find_All_Duplicates_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/442.Find_All_Duplicates_in_an_Array.md)

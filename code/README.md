@@ -324,6 +324,10 @@
 
 * [single-element-in-a-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/414.Third_Maximum_Number/single-element-in-a-sorted-array.java)
 
+### 419.Battleships_in_a_Board
+
+* [battleships-in-a-board.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/419.Battleships_in_a_Board/battleships-in-a-board.java)
+
 ### 434.Number_of_Segments_in_a_String
 
 * [number-of-segments-in-a-string.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/434.Number_of_Segments_in_a_String/number-of-segments-in-a-string.js)
