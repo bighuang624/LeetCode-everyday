@@ -529,6 +529,14 @@
 
 * [construct-string-from-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/606.Construct_String_from_Binary_Tree/construct-string-from-binary-tree.java)
 
+### 61.Rotate_List
+
+* [rotate-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/61.Rotate_List/rotate-list.java)
+
+### 62.Unique_Paths
+
+* [unique-paths.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/62.Unique_Paths/unique-paths.java)
+
 ### 620.Not_Boring_Movies
 
 * [not-boring-movies.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/620.Not_Boring_Movies/not-boring-movies.sql)

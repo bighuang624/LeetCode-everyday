@@ -146,6 +146,8 @@
 * [6.ZigZag_Conversion](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/6.ZigZag_Conversion.md)
 * [605.Can_Place_Flowers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/605.Can_Place_Flowers.md)
 * [606.Construct_String_from_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/606.Construct_String_from_Binary_Tree.md)
+* [61.Rotate_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/61.Rotate_List.md)
+* [62.Unique_Paths](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/62.Unique_Paths.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
 * [623.Add_One_Row_to_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/623.Add_One_Row_to_Tree.md)
 * [637.Average_of_Levels_in_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/637.Average_of_Levels_in_Binary_Tree.md)
