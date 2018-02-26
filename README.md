@@ -185,6 +185,7 @@
 * [769.Max_Chunks_To_Make_Sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/769.Max_Chunks_To_Make_Sorted.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
 * [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
+* [82.Remove_Duplicates_from_Sorted_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/82.Remove_Duplicates_from_Sorted_List_II.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)
