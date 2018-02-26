@@ -3,6 +3,7 @@
 
 ### 1.Two_Sum
 
+* [two-sum.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/1.Two_Sum/two-sum.java)
 * [two-sum.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/1.Two_Sum/two-sum.js)
 
 ### 100.Same_Tree
