@@ -240,6 +240,10 @@
 
 * [range-sum-query-immutable.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/303.Range_Sum_Query-Immutable/range-sum-query-immutable.java)
 
+### 31.Next_Permutation
+
+* [next-permutation.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/31.Next_Permutation/next-permutation.java)
+
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
