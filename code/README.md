@@ -62,6 +62,10 @@
 
 * [single-number.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/136.Single_Number/single-number.js)
 
+### 14.Longest_Common_Prefix
+
+* [longest-common-prefix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/14.Longest_Common_Prefix/longest-common-prefix.java)
+
 ### 141.Linked_List_Cycle
 
 * [linked-list-cycle.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/141.Linked_List_Cycle/linked-list-cycle.java)
