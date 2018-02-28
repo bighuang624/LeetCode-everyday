@@ -370,6 +370,10 @@
 
 * [assign-cookies.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/455.Assign_Cookies/assign-cookies.java)
 
+### 46.Permutations
+
+* [permutations.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/46.Permutations/permutations.java)
+
 ### 461.Hamming_Distance
 
 * [hamming-distance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/461.Hamming_Distance/hamming-distance.java)
