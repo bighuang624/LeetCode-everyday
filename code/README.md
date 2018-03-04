@@ -50,6 +50,10 @@
 
 * [path-sum-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/113.Path_Sum_II/path-sum-ii.java)
 
+### 116.Populating_Next_Right_Pointers_in_Each_Node
+
+* [populating-next-right-pointers-in-each-node.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/116.Populating_Next_Right_Pointers_in_Each_Node/populating-next-right-pointers-in-each-node.java)
+
 ### 118.Pascal's_Triangle
 
 * [pascals-triangle.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/118.Pascal's_Triangle/pascals-triangle.java)

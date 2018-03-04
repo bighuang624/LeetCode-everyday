@@ -27,6 +27,7 @@
 * [111.Minimum_Depth_of_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/111.Minimum_Depth_of_Binary_Tree.md)
 * [112.Path_Sum](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/112.Path_Sum.md)
 * [113.Path_Sum_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/113.Path_Sum_II.md)
+* [116.Populating_Next_Right_Pointers_in_Each_Node](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/116.Populating_Next_Right_Pointers_in_Each_Node.md)
 * [118.Pascal's_Triangle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/118.Pascal's_Triangle.md)
 * [119.Pascal's_Triangle_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/119.Pascal's_Triangle_II.md)
 * [121.Best_Time_to_Buy_and_Sell_Stock](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/121.Best_Time_to_Buy_and_Sell_Stock.md)
