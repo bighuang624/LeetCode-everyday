@@ -87,6 +87,7 @@
 * [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
 * [328.Odd_Even_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/328.Odd_Even_Linked_List.md)
 * [33.Search_in_Rotated_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/33.Search_in_Rotated_Sorted_Array.md)
+* [34.Search_for_a_Range](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/34.Search_for_a_Range.md)
 * [342.Power_of_Four](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/342.Power_of_Four.md)
 * [344.Reverse_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/344.Reverse_String.md)
 * [345.Reverse_Vowels_of_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/345.Reverse_Vowels_of_a_String.md)

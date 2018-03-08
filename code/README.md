@@ -292,6 +292,10 @@
 
 * [search-in-rotated-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/33.Search_in_Rotated_Sorted_Array/search-in-rotated-sorted-array.java)
 
+### 34.Search_for_a_Range
+
+* [search-for-a-range.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/34.Search_for_a_Range/search-for-a-range.java)
+
 ### 342.Power_of_Four
 
 * [power-of-four.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/342.Power_of_Four/power-of-four.java)
