@@ -172,6 +172,7 @@
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
 * [66.Plus_One](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/66.Plus_One.md)
 * [665.Non-decreasing_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/665.Non-decreasing_Array.md)
+* [67.Add_Binary](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/67.Add_Binary.md)
 * [671.Second_Minimum_Node_In_a_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/671.Second_Minimum_Node_In_a_Binary_Tree.md)
 * [674.Longest_Continuous_Increasing_Subsequence](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/674.Longest_Continuous_Increasing_Subsequence.md)
 * [676.Implement_Magic_Dictionary](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/676.Implement_Magic_Dictionary.md)
