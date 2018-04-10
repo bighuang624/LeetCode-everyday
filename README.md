@@ -12,6 +12,7 @@
 * 看 Discuss
 * 整理总结
 
+* [package.json](https://github.com/bighuang624/LeetCode-everyday/blob/master/package.json)
 
 ## notes
 
@@ -199,6 +200,7 @@
 * [769.Max_Chunks_To_Make_Sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/769.Max_Chunks_To_Make_Sorted.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
 * [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
+* [812.Largest_Triangle_Area](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/812.Largest_Triangle_Area.md)
 * [82.Remove_Duplicates_from_Sorted_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/82.Remove_Duplicates_from_Sorted_List_II.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
