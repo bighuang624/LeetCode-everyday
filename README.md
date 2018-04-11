@@ -4,15 +4,14 @@
 
 ## 步骤
 
-* 看题
-* 思考
-* 做题
-* 优化（提高效率、简洁代码）
-* 换语言实现（为了准备机试，暂时跳过这一步，全由 Java 实现）
-* 看 Discuss
-* 整理总结
+1. 看题
+2. 思考
+3. 做题
+4. 优化（提高效率、简洁代码）
+5. 换语言实现（为了准备机试，暂时跳过这一步，全由 Java 实现）
+6. 看 Discuss
+7. 整理总结
 
-* [package.json](https://github.com/bighuang624/LeetCode-everyday/blob/master/package.json)
 
 ## notes
 
@@ -164,6 +163,7 @@
 * [62.Unique_Paths](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/62.Unique_Paths.md)
 * [620.Not_Boring_Movies](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/620.Not_Boring_Movies.md)
 * [623.Add_One_Row_to_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/623.Add_One_Row_to_Tree.md)
+* [628.Maximum_Product_of_Three_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/628.Maximum_Product_of_Three_Numbers.md)
 * [637.Average_of_Levels_in_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/637.Average_of_Levels_in_Binary_Tree.md)
 * [643.Maximum_Average_Subarray_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/643.Maximum_Average_Subarray_I.md)
 * [645.Set_Mismatch](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/645.Set_Mismatch.md)
