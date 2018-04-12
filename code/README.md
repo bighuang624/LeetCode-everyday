@@ -562,6 +562,10 @@
 
 * [shortest-unsorted-continuous-subarray.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/581.Shortest_Unsorted_Continuous_Subarray/shortest-unsorted-continuous-subarray.java)
 
+### 594.Longest_Harmonious_Subsequence
+
+* [longest-harmonious-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/594.Longest_Harmonious_Subsequence/longest-harmonious-subsequence.java)
+
 ### 595.Big_Countries
 
 * [big-countries.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/595.Big_Countries/big-countries.sql)
