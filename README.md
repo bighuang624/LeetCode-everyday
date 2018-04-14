@@ -51,6 +51,7 @@
 * [183.Customers_Who_Never_Order](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/183.Customers_Who_Never_Order.md)
 * [189.Rotate_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/189.Rotate_Array.md)
 * [19.Remove_Nth_Node_From_End_of_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/19.Remove_Nth_Node_From_End_of_List.md)
+* [191.Number_of_1_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/191.Number_of_1_Bits.md)
 * [198.House_Robber](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/198.House_Robber.md)
 * [2.Add_Two_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/2.Add_Two_Numbers.md)
 * [202.Happy_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/202.Happy_Number.md)

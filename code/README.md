@@ -146,6 +146,10 @@
 
 * [remove-nth-node-from-end-of-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/19.Remove_Nth_Node_From_End_of_List/remove-nth-node-from-end-of-list.java)
 
+### 191.Number_of_1_Bits
+
+* [number-of-1-bits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/191.Number_of_1_Bits/number-of-1-bits.java)
+
 ### 198.House_Robber
 
 * [house-robber.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/198.House_Robber/house-robber.java)
