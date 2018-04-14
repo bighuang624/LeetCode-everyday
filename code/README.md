@@ -329,6 +329,10 @@
 
 * [intersection-of-two-arrays-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/350.Intersection_of_Two_Arrays_II/intersection-of-two-arrays-ii.java)
 
+### 367.Valid_Perfect_Square
+
+* [valid-perfect-square.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/367.Valid_Perfect_Square/valid-perfect-square.java)
+
 ### 374.Guess_Number_Higher_or_Lower
 
 * [guess-number-higher-or-lower.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/374.Guess_Number_Higher_or_Lower/guess-number-higher-or-lower.java)

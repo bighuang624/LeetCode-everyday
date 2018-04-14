@@ -96,6 +96,7 @@
 * [349.Intersection_of_Two_Arrays](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/349.Intersection_of_Two_Arrays.md)
 * [35.Search_Insert_Position](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/35.Search_Insert_Position.md)
 * [350.Intersection_of_Two_Arrays_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/350.Intersection_of_Two_Arrays_II.md)
+* [367.Valid_Perfect_Square](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/367.Valid_Perfect_Square.md)
 * [374.Guess_Number_Higher_or_Lower](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/374.Guess_Number_Higher_or_Lower.md)
 * [38.Count_and_Say](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/38.Count_and_Say.md)
 * [382.Linked_List_Random_Node](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/382.Linked_List_Random_Node.md)
