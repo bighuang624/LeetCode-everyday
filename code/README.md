@@ -626,6 +626,10 @@
 
 * [maximum-product-of-three-numbers.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/628.Maximum_Product_of_Three_Numbers/maximum-product-of-three-numbers.java)
 
+### 633.Sum_of_Square_Numbers
+
+* [sum-of-square-numbers.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/633.Sum_of_Square_Numbers/sum-of-square-numbers.java)
+
 ### 637.Average_of_Levels_in_Binary_Tree
 
 * [average-of-levels-in-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/637.Average_of_Levels_in_Binary_Tree/average-of-levels-in-binary-tree.java)
