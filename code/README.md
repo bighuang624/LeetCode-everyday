@@ -361,6 +361,10 @@
 
 * [find-the-difference.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/389.Find_the_Difference/find-the-difference.java)
 
+### 392.Is_Subsequence
+
+* [is-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/392.Is_Subsequence/is-subsequence.java)
+
 ### 404.Sum_of_Left_Leaves
 
 * [sum-of-left-leaves.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/404.Sum_of_Left_Leaves/sum-of-left-leaves.java)
