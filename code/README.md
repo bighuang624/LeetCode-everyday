@@ -474,6 +474,10 @@
 
 * [relative-ranks.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/506.Relative_Ranks/relative-ranks.java)
 
+### 507.Perfect_Number
+
+* [perfect-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/507.Perfect_Number/perfect-number.java)
+
 ### 508.Most_Frequent_Subtree_Sum
 
 * [most-frequent-subtree-sum.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/508.Most_Frequent_Subtree_Sum/most-frequent-subtree-sum.java)
