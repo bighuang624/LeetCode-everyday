@@ -422,6 +422,10 @@
 
 * [assign-cookies.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/455.Assign_Cookies/assign-cookies.java)
 
+### 459.Repeated_Substring_Pattern
+
+* [repeated-substring-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/459.Repeated_Substring_Pattern/repeated-substring-pattern.java)
+
 ### 46.Permutations
 
 * [permutations.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/46.Permutations/permutations.java)
