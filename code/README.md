@@ -698,6 +698,10 @@
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
 
+### 69.Sqrt(x)
+
+* [sqrtx.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/69.Sqrt(x)/sqrtx.java)
+
 ### 690.Employee_Importance
 
 * [employee-importance.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/690.Employee_Importance/employee-importance.java)

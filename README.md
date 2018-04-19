@@ -188,6 +188,7 @@
 * [676.Implement_Magic_Dictionary](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/676.Implement_Magic_Dictionary.md)
 * [677.Map_Sum_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/677.Map_Sum_Pairs.md)
 * [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
+* [69.Sqrt(x)](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/69.Sqrt(x).md)
 * [690.Employee_Importance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/690.Employee_Importance.md)
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
 * [695.Max_Area_of_Island](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/695.Max_Area_of_Island.md)
