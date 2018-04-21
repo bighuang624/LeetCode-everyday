@@ -365,6 +365,10 @@
 
 * [is-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/392.Is_Subsequence/is-subsequence.java)
 
+### 398.Random_Pick_Index
+
+* [random-pick-index.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/398.Random_Pick_Index/random-pick-index.java)
+
 ### 404.Sum_of_Left_Leaves
 
 * [sum-of-left-leaves.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/404.Sum_of_Left_Leaves/sum-of-left-leaves.java)

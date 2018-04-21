@@ -105,6 +105,7 @@
 * [387.First_Unique_Character_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/387.First_Unique_Character_in_a_String.md)
 * [389.Find_the_Difference](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/389.Find_the_Difference.md)
 * [392.Is_Subsequence](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/392.Is_Subsequence.md)
+* [398.Random_Pick_Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/398.Random_Pick_Index.md)
 * [404.Sum_of_Left_Leaves](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/404.Sum_of_Left_Leaves.md)
 * [412.Fizz_Buzz](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/412.Fizz_Buzz.md)
 * [413.Arithmetic_Slices](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/413.Arithmetic_Slices.md)
