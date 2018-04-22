@@ -260,6 +260,10 @@
 
 * [move-zeroes.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/283.Move_Zeroes/move-zeroes.js)
 
+### 287.Find_the_Duplicate_Number
+
+* [find-the-duplicate-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/287.Find_the_Duplicate_Number/find-the-duplicate-number.java)
+
 ### 290.Word_Pattern
 
 * [word-pattern.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/290.Word_Pattern/word-pattern.java)

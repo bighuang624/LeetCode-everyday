@@ -79,6 +79,7 @@
 * [278.First_Bad_Version](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/278.First_Bad_Version.md)
 * [28.Implement_strStr()](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/28.Implement_strStr().md)
 * [283.Move_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/283.Move_Zeroes.md)
+* [287.Find_the_Duplicate_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/287.Find_the_Duplicate_Number.md)
 * [290.Word_Pattern](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/290.Word_Pattern.md)
 * [292.Nim_Game](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/292.Nim_Game.md)
 * [3.Longest_Substring_Without_Repeating_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/3.Longest_Substring_Without_Repeating_Characters.md)
