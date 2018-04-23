@@ -189,6 +189,7 @@
 * [674.Longest_Continuous_Increasing_Subsequence](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/674.Longest_Continuous_Increasing_Subsequence.md)
 * [676.Implement_Magic_Dictionary](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/676.Implement_Magic_Dictionary.md)
 * [677.Map_Sum_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/677.Map_Sum_Pairs.md)
+* [684.Redundant_Connection](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/684.Redundant_Connection.md)
 * [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
 * [69.Sqrt(x)](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/69.Sqrt(x).md)
 * [690.Employee_Importance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/690.Employee_Importance.md)
