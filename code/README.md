@@ -312,6 +312,10 @@
 
 * [power-of-four.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/342.Power_of_Four/power-of-four.java)
 
+### 343.Integer_Break
+
+* [integer-break.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/343.Integer_Break/integer-break.java)
+
 ### 344.Reverse_String
 
 * [reverse-string.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/344.Reverse_String/reverse-string.java)
