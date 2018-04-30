@@ -526,6 +526,10 @@
 
 * [longest-uncommon-subsequence-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/521.Longest_Uncommon_Subsequence_I/longest-uncommon-subsequence-i.java)
 
+### 525.Contiguous_Array
+
+* [contiguous-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/525.Contiguous_Array/contiguous-array.java)
+
 ### 53.Maximum_Subarray
 
 * [maximum-subarray.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/53.Maximum_Subarray/maximum-subarray.java)
