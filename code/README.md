@@ -114,6 +114,10 @@
 
 * [maximum-product-subarray.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/152.Maximum_Product_Subarray/maximum-product-subarray.java)
 
+### 153.Find_Minimum_in_Rotated_Sorted_Array
+
+* [find-minimum-in-rotated-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/153.Find_Minimum_in_Rotated_Sorted_Array/find-minimum-in-rotated-sorted-array.java)
+
 ### 155.Min_Stack
 
 * [min-stack.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/155.Min_Stack/min-stack.java)
