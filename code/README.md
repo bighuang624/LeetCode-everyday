@@ -361,6 +361,10 @@
 
 * [guess-number-higher-or-lower.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/374.Guess_Number_Higher_or_Lower/guess-number-higher-or-lower.java)
 
+### 378.Kth_Smallest_Element_in_a_Sorted_Matrix
+
+* [kth-smallest-element-in-a-sorted-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/378.Kth_Smallest_Element_in_a_Sorted_Matrix/kth-smallest-element-in-a-sorted-matrix.java)
+
 ### 38.Count_and_Say
 
 * [count-and-say.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/38.Count_and_Say/count-and-say.java)

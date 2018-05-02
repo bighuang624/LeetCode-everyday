@@ -104,6 +104,7 @@
 * [350.Intersection_of_Two_Arrays_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/350.Intersection_of_Two_Arrays_II.md)
 * [367.Valid_Perfect_Square](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/367.Valid_Perfect_Square.md)
 * [374.Guess_Number_Higher_or_Lower](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/374.Guess_Number_Higher_or_Lower.md)
+* [378.Kth_Smallest_Element_in_a_Sorted_Matrix](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/378.Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 * [38.Count_and_Say](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/38.Count_and_Say.md)
 * [382.Linked_List_Random_Node](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/382.Linked_List_Random_Node.md)
 * [383.Ransom_Note](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/383.Ransom_Note.md)
