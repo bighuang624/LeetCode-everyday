@@ -222,6 +222,7 @@
 * [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
 * [796.Rotate_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/796.Rotate_String.md)
 * [797.All_Paths_From_Source_to_Target](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/797.All_Paths_From_Source_to_Target.md)
+* [804.Unique_Morse_Code_Words](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/804.Unique_Morse_Code_Words.md)
 * [807.Max_Increase_to_Keep_City_Skyline](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/807.Max_Increase_to_Keep_City_Skyline.md)
 * [811.Subdomain_Visit_Count](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/811.Subdomain_Visit_Count.md)
 * [812.Largest_Triangle_Area](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/812.Largest_Triangle_Area.md)
