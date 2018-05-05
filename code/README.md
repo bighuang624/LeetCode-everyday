@@ -634,6 +634,10 @@
 
 * [classes-more-than-5-students.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/596.Classes_More_Than_5_Students/classes-more-than-5-students.sql)
 
+### 598.Range_Addition_II
+
+* [range-addition-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/598.Range_Addition_II/range-addition-ii.java)
+
 ### 599.Minimum_Index_Sum_of_Two_Lists
 
 * [minimum-index-sum-of-two-lists.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/599.Minimum_Index_Sum_of_Two_Lists/minimum-index-sum-of-two-lists.java)
