@@ -830,6 +830,10 @@
 
 * [rabbits-in-forest.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/781.Rabbits_in_Forest/rabbits-in-forest.java)
 
+### 788.Rotated_Digits
+
+* [rotated-digits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/788.Rotated_Digits/rotated-digits.java)
+
 ### 796.Rotate_String
 
 * [rotate-string.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/796.Rotate_String/rotate-string.java)
