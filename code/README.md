@@ -862,6 +862,10 @@
 
 * [remove-duplicates-from-sorted-list-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/82.Remove_Duplicates_from_Sorted_List_II/remove-duplicates-from-sorted-list-ii.java)
 
+### 821.Shortest_Distance_to_a_Character
+
+* [shortest-distance-to-a-character.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/821.Shortest_Distance_to_a_Character/shortest-distance-to-a-character.java)
+
 ### 83.Remove_Duplicates_from_Sorted_List
 
 * [remove-duplicates-from-sorted-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/83.Remove_Duplicates_from_Sorted_List/remove-duplicates-from-sorted-list.java)
