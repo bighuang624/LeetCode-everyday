@@ -846,6 +846,10 @@
 
 * [rabbits-in-forest.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/781.Rabbits_in_Forest/rabbits-in-forest.java)
 
+### 784.Letter_Case_Permutation
+
+* [letter-case-permutation.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/784.Letter_Case_Permutation/letter-case-permutation.java)
+
 ### 788.Rotated_Digits
 
 * [rotated-digits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/788.Rotated_Digits/rotated-digits.java)

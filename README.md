@@ -225,6 +225,7 @@
 * [769.Max_Chunks_To_Make_Sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/769.Max_Chunks_To_Make_Sorted.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
 * [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
+* [784.Letter_Case_Permutation](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/784.Letter_Case_Permutation.md)
 * [788.Rotated_Digits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/788.Rotated_Digits.md)
 * [791.Custom_Sort_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/791.Custom_Sort_String.md)
 * [796.Rotate_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/796.Rotate_String.md)
