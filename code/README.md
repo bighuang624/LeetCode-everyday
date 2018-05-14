@@ -846,6 +846,10 @@
 
 * [rabbits-in-forest.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/781.Rabbits_in_Forest/rabbits-in-forest.java)
 
+### 783.Minimum_Distance_Between_BST_Nodes
+
+* [minimum-distance-between-bst-nodes.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/783.Minimum_Distance_Between_BST_Nodes/minimum-distance-between-bst-nodes.java)
+
 ### 784.Letter_Case_Permutation
 
 * [letter-case-permutation.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/784.Letter_Case_Permutation/letter-case-permutation.java)
