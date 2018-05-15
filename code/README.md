@@ -272,6 +272,10 @@
 
 * [first-bad-version.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/278.First_Bad_Version/first-bad-version.java)
 
+### 279.Perfect_Squares
+
+* [perfect-squares.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/279.Perfect_Squares/perfect-squares.java)
+
 ### 28.Implement_strStr()
 
 * [implement-strstr.js](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/28.Implement_strStr()/implement-strstr.js)
