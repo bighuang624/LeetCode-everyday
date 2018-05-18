@@ -226,6 +226,7 @@
 * [763.Partition_Labels](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/763.Partition_Labels.md)
 * [769.Max_Chunks_To_Make_Sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/769.Max_Chunks_To_Make_Sorted.md)
 * [771.Jewels_and_Stones](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/771.Jewels_and_Stones.md)
+* [78.Subsets](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/78.Subsets.md)
 * [781.Rabbits_in_Forest](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/781.Rabbits_in_Forest.md)
 * [783.Minimum_Distance_Between_BST_Nodes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/783.Minimum_Distance_Between_BST_Nodes.md)
 * [784.Letter_Case_Permutation](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/784.Letter_Case_Permutation.md)

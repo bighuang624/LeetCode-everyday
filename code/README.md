@@ -850,6 +850,10 @@
 
 * [jewels-and-stones.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/771.Jewels_and_Stones/jewels-and-stones.java)
 
+### 78.Subsets
+
+* [subsets.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/78.Subsets/subsets.java)
+
 ### 781.Rabbits_in_Forest
 
 * [rabbits-in-forest.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/781.Rabbits_in_Forest/rabbits-in-forest.java)
