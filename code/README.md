@@ -730,6 +730,10 @@
 
 * [plus-one.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/66.Plus_One/plus-one.java)
 
+### 662.Maximum_Width_of_Binary_Tree
+
+* [maximum-width-of-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/662.Maximum_Width_of_Binary_Tree/maximum-width-of-binary-tree.java)
+
 ### 665.Non-decreasing_Array
 
 * [non-decreasing-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/665.Non-decreasing_Array/non-decreasing-array.java)
