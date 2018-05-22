@@ -82,6 +82,7 @@
 * [268.Missing_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/268.Missing_Number.md)
 * [27.Remove_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/27.Remove_Element.md)
 * [274.H-Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/274.H-Index.md)
+* [275.H-Index_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/275.H-Index_II.md)
 * [278.First_Bad_Version](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/278.First_Bad_Version.md)
 * [279.Perfect_Squares](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/279.Perfect_Squares.md)
 * [28.Implement_strStr()](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/28.Implement_strStr().md)

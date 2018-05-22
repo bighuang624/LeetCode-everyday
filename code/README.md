@@ -272,6 +272,10 @@
 
 * [h-index.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/274.H-Index/h-index.java)
 
+### 275.H-Index_II
+
+* [h-index-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/275.H-Index_II/h-index-ii.java)
+
 ### 278.First_Bad_Version
 
 * [first-bad-version.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/278.First_Bad_Version/first-bad-version.java)
