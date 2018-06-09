@@ -244,6 +244,7 @@
 * [82.Remove_Duplicates_from_Sorted_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/82.Remove_Duplicates_from_Sorted_List_II.md)
 * [821.Shortest_Distance_to_a_Character](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/821.Shortest_Distance_to_a_Character.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)
+* [840.Magic_Squares_In_Grid](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/840.Magic_Squares_In_Grid.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)
 * [92.Reverse_Linked_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/92.Reverse_Linked_List_II.md)
