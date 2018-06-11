@@ -930,6 +930,10 @@
 
 * [magic-squares-in-grid.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/840.Magic_Squares_In_Grid/magic-squares-in-grid.java)
 
+### 841.Keys_and_Rooms
+
+* [keys-and-rooms.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/841.Keys_and_Rooms/keys-and-rooms.java)
+
 ### 88.Merge_Sorted_Array
 
 * [merge-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/88.Merge_Sorted_Array/merge-sorted-array.java)
