@@ -45,6 +45,7 @@
 * [152.Maximum_Product_Subarray](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/152.Maximum_Product_Subarray.md)
 * [153.Find_Minimum_in_Rotated_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/153.Find_Minimum_in_Rotated_Sorted_Array.md)
 * [155.Min_Stack](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/155.Min_Stack.md)
+* [160.Intersection_of_Two_Linked_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/160.Intersection_of_Two_Linked_Lists.md)
 * [167.Two_Sum_II_-_Input_array_is_sorted](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/167.Two_Sum_II_-_Input_array_is_sorted.md)
 * [169.Majority_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/169.Majority_Element.md)
 * [172.Factorial_Trailing_Zeroes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/172.Factorial_Trailing_Zeroes.md)
