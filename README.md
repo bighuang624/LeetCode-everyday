@@ -72,6 +72,7 @@
 * [230.Kth_Smallest_Element_in_a_BST](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/230.Kth_Smallest_Element_in_a_BST.md)
 * [231.Power_of_Two](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/231.Power_of_Two.md)
 * [232.Implement_Queue_using_Stacks](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/232.Implement_Queue_using_Stacks.md)
+* [234.Palindrome_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/234.Palindrome_Linked_List.md)
 * [237.Delete_Node_in_a_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/237.Delete_Node_in_a_Linked_List.md)
 * [238.Product_of_Array_Except_Self](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/238.Product_of_Array_Except_Self.md)
 * [24.Swap_Nodes_in_Pairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/24.Swap_Nodes_in_Pairs.md)
