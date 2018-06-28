@@ -96,6 +96,7 @@
 * [3.Longest_Substring_Without_Repeating_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/3.Longest_Substring_Without_Repeating_Characters.md)
 * [303.Range_Sum_Query-Immutable](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/303.Range_Sum_Query-Immutable.md)
 * [31.Next_Permutation](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/31.Next_Permutation.md)
+* [319.Bulb_Switcher](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/319.Bulb_Switcher.md)
 * [32.Longest_Valid_Parentheses](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/32.Longest_Valid_Parentheses.md)
 * [326.Power_of_Three](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/326.Power_of_Three.md)
 * [328.Odd_Even_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/328.Odd_Even_Linked_List.md)

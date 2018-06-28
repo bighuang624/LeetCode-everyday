@@ -328,6 +328,10 @@
 
 * [next-permutation.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/31.Next_Permutation/next-permutation.java)
 
+### 319.Bulb_Switcher
+
+* [bulb-switcher.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/319.Bulb_Switcher/bulb-switcher.java)
+
 ### 32.Longest_Valid_Parentheses
 
 * [longest-valid-parentheses.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/32.Longest_Valid_Parentheses/longest-valid-parentheses.java)
