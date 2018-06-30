@@ -774,6 +774,10 @@
 
 * [second-minimum-node-in-a-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/671.Second_Minimum_Node_In_a_Binary_Tree/second-minimum-node-in-a-binary-tree.java)
 
+### 672.Bulb_Switcher_II
+
+* [bulb-switcher-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/672.Bulb_Switcher_II/bulb-switcher-ii.java)
+
 ### 674.Longest_Continuous_Increasing_Subsequence
 
 * [longest-continuous-increasing-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/674.Longest_Continuous_Increasing_Subsequence/longest-continuous-increasing-subsequence.java)
@@ -865,6 +869,10 @@
 ### 75.Sort_Colors
 
 * [sort-colors.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/75.Sort_Colors/sort-colors.java)
+
+### 754.Reach_a_Number
+
+* [reach-a-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/754.Reach_a_Number/reach-a-number.java)
 
 ### 760.Find_Anagram_Mappings
 
