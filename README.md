@@ -249,6 +249,7 @@
 * [807.Max_Increase_to_Keep_City_Skyline](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/807.Max_Increase_to_Keep_City_Skyline.md)
 * [811.Subdomain_Visit_Count](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/811.Subdomain_Visit_Count.md)
 * [812.Largest_Triangle_Area](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/812.Largest_Triangle_Area.md)
+* [814.Binary_Tree_Pruning](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/814.Binary_Tree_Pruning.md)
 * [82.Remove_Duplicates_from_Sorted_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/82.Remove_Duplicates_from_Sorted_List_II.md)
 * [821.Shortest_Distance_to_a_Character](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/821.Shortest_Distance_to_a_Character.md)
 * [83.Remove_Duplicates_from_Sorted_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/83.Remove_Duplicates_from_Sorted_List.md)

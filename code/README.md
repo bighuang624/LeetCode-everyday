@@ -942,6 +942,10 @@
 
 * [largest-triangle-area.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/812.Largest_Triangle_Area/largest-triangle-area.java)
 
+### 814.Binary_Tree_Pruning
+
+* [binary-tree-pruning.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/814.Binary_Tree_Pruning/binary-tree-pruning.java)
+
 ### 82.Remove_Duplicates_from_Sorted_List_II
 
 * [remove-duplicates-from-sorted-list-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/82.Remove_Duplicates_from_Sorted_List_II/remove-duplicates-from-sorted-list-ii.java)
