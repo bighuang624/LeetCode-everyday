@@ -974,6 +974,10 @@
 
 * [partition-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/86.Partition_List/partition-list.java)
 
+### 861.Score_After_Flipping_Matrix
+
+* [score-after-flipping-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/861.Score_After_Flipping_Matrix/score-after-flipping-matrix.java)
+
 ### 88.Merge_Sorted_Array
 
 * [merge-sorted-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/88.Merge_Sorted_Array/merge-sorted-array.java)
