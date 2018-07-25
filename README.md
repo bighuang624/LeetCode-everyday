@@ -149,6 +149,7 @@
 * [492.Construct_the_Rectangle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/492.Construct_the_Rectangle.md)
 * [495.Teemo_Attacking](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/495.Teemo_Attacking.md)
 * [496.Next_Greater_Element_I](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/496.Next_Greater_Element_I.md)
+* [500.Keyboard_Row](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/500.Keyboard_Row.md)
 * [501.Find_Mode_in_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/501.Find_Mode_in_Binary_Search_Tree.md)
 * [503.Next_Greater_Element_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/503.Next_Greater_Element_II.md)
 * [506.Relative_Ranks](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/506.Relative_Ranks.md)
