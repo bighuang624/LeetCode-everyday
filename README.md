@@ -265,6 +265,7 @@
 * [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)
 * [92.Reverse_Linked_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/92.Reverse_Linked_List_II.md)
 * [94.Binary_Tree_Inorder_Traversal](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/94.Binary_Tree_Inorder_Traversal.md)
+* [96.Unique_Binary_Search_Trees](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/96.Unique_Binary_Search_Trees.md)
 
 ## 代码目录
 

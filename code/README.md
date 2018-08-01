@@ -1006,3 +1006,7 @@
 
 * [binary-tree-inorder-traversal.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/94.Binary_Tree_Inorder_Traversal/binary-tree-inorder-traversal.java)
 
+### 96.Unique_Binary_Search_Trees
+
+* [unique-binary-search-trees.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/96.Unique_Binary_Search_Trees/unique-binary-search-trees.java)
+
