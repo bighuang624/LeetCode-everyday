@@ -1010,3 +1010,7 @@
 
 * [unique-binary-search-trees.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/96.Unique_Binary_Search_Trees/unique-binary-search-trees.java)
 
+### 98.Validate_Binary_Search_Tree
+
+* [validate-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/98.Validate_Binary_Search_Tree/validate-binary-search-tree.java)
+
