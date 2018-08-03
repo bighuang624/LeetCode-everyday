@@ -866,6 +866,10 @@
 
 * [daily-temperatures.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/739.Daily_Temperatures/daily-temperatures.java)
 
+### 74.Search_a_2D_Matrix
+
+* [search-a-2d-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/74.Search_a_2D_Matrix/search-a-2d-matrix.java)
+
 ### 744.Find_Smallest_Letter_Greater_Than_Target
 
 * [find-smallest-letter-greater-than-target.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/744.Find_Smallest_Letter_Greater_Than_Target/find-smallest-letter-greater-than-target.java)

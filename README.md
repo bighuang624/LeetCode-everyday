@@ -230,6 +230,7 @@
 * [728.Self_Dividing_Numbers](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/728.Self_Dividing_Numbers.md)
 * [734.Sentence_Similarity](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/734.Sentence_Similarity.md)
 * [739.Daily_Temperatures](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/739.Daily_Temperatures.md)
+* [74.Search_a_2D_Matrix](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/74.Search_a_2D_Matrix.md)
 * [744.Find_Smallest_Letter_Greater_Than_Target](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/744.Find_Smallest_Letter_Greater_Than_Target.md)
 * [746.Min_Cost_Climbing_Stairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/746.Min_Cost_Climbing_Stairs.md)
 * [747.Largest_Number_At_Least_Twice_of_Others](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/747.Largest_Number_At_Least_Twice_of_Others.md)
