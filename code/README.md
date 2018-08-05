@@ -94,6 +94,10 @@
 
 * [copy-list-with-random-pointer.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/138.Copy_List_with_Random_Pointer/copy-list-with-random-pointer.java)
 
+### 139.Word_Break
+
+* [word-break.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/139.Word_Break/word-break.java)
+
 ### 14.Longest_Common_Prefix
 
 * [longest-common-prefix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/14.Longest_Common_Prefix/longest-common-prefix.java)

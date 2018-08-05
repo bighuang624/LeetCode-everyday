@@ -38,6 +38,7 @@
 * [136.Single_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/136.Single_Number.md)
 * [137.Single_Number_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/137.Single_Number_II.md)
 * [138.Copy_List_with_Random_Pointer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/138.Copy_List_with_Random_Pointer.md)
+* [139.Word_Break](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/139.Word_Break.md)
 * [14.Longest_Common_Prefix](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/14.Longest_Common_Prefix.md)
 * [141.Linked_List_Cycle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/141.Linked_List_Cycle.md)
 * [142.Linked_List_Cycle_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/142.Linked_List_Cycle_II.md)
