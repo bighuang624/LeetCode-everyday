@@ -174,6 +174,10 @@
 
 * [customers-who-never-order.sql](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/183.Customers_Who_Never_Order/customers-who-never-order.sql)
 
+### 187.Repeated_DNA_Sequences
+
+* [repeated-dna-sequences.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/187.Repeated_DNA_Sequences/repeated-dna-sequences.java)
+
 ### 189.Rotate_Array
 
 * [rotate-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/189.Rotate_Array/rotate-array.java)
