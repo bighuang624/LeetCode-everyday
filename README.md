@@ -74,6 +74,8 @@
 * [203.Remove_Linked_List_Elements](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/203.Remove_Linked_List_Elements.md)
 * [205.Isomorphic_Strings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/205.Isomorphic_Strings.md)
 * [206.Reverse_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/206.Reverse_Linked_List.md)
+* [207.Course_Schedule](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/207.Course_Schedule.md)
+* [209.Minimum_Size_Subarray_Sum](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/209.Minimum_Size_Subarray_Sum.md)
 * [21.Merge_Two_Sorted_Lists](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/21.Merge_Two_Sorted_Lists.md)
 * [215.Kth_Largest_Element_in_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/215.Kth_Largest_Element_in_an_Array.md)
 * [217.Contains_Duplicate](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/217.Contains_Duplicate.md)
