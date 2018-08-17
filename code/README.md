@@ -441,6 +441,10 @@
 
 * [guess-number-higher-or-lower.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/374.Guess_Number_Higher_or_Lower/guess-number-higher-or-lower.java)
 
+### 375.Guess_Number_Higher_or_Lower_II
+
+* [guess-number-higher-or-lower-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/375.Guess_Number_Higher_or_Lower_II/guess-number-higher-or-lower-ii.java)
+
 ### 378.Kth_Smallest_Element_in_a_Sorted_Matrix
 
 * [kth-smallest-element-in-a-sorted-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/378.Kth_Smallest_Element_in_a_Sorted_Matrix/kth-smallest-element-in-a-sorted-matrix.java)
@@ -476,6 +480,10 @@
 ### 398.Random_Pick_Index
 
 * [random-pick-index.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/398.Random_Pick_Index/random-pick-index.java)
+
+### 400.Nth_Digit
+
+* [nth-digit.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/400.Nth_Digit/nth-digit.java)
 
 ### 404.Sum_of_Left_Leaves
 
