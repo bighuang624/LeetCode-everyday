@@ -106,6 +106,7 @@
 * [290.Word_Pattern](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/290.Word_Pattern.md)
 * [292.Nim_Game](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/292.Nim_Game.md)
 * [3.Longest_Substring_Without_Repeating_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/3.Longest_Substring_Without_Repeating_Characters.md)
+* [300.Longest_Increasing_Subsequence](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/300.Longest_Increasing_Subsequence.md)
 * [303.Range_Sum_Query-Immutable](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/303.Range_Sum_Query-Immutable.md)
 * [31.Next_Permutation](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/31.Next_Permutation.md)
 * [319.Bulb_Switcher](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/319.Bulb_Switcher.md)

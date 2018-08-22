@@ -368,6 +368,10 @@
 
 * [longest-substring-without-repeating-characters.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/3.Longest_Substring_Without_Repeating_Characters/longest-substring-without-repeating-characters.java)
 
+### 300.Longest_Increasing_Subsequence
+
+* [longest-increasing-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/300.Longest_Increasing_Subsequence/longest-increasing-subsequence.java)
+
 ### 303.Range_Sum_Query-Immutable
 
 * [range-sum-query-immutable.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/303.Range_Sum_Query-Immutable/range-sum-query-immutable.java)
