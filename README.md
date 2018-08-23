@@ -94,6 +94,7 @@
 * [26.Remove_Duplicates_from_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/26.Remove_Duplicates_from_Sorted_Array.md)
 * [260.Single_Number_III](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/260.Single_Number_III.md)
 * [263.Ugly_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/263.Ugly_Number.md)
+* [264.Ugly_Number_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/264.Ugly_Number_II.md)
 * [268.Missing_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/268.Missing_Number.md)
 * [27.Remove_Element](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/27.Remove_Element.md)
 * [274.H-Index](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/274.H-Index.md)

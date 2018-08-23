@@ -319,6 +319,10 @@
 
 * [ugly-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/263.Ugly_Number/ugly-number.java)
 
+### 264.Ugly_Number_II
+
+* [ugly-number-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/264.Ugly_Number_II/ugly-number-ii.java)
+
 ### 268.Missing_Number
 
 * [missing-number.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/268.Missing_Number/missing-number.java)
