@@ -986,6 +986,10 @@
 
 * [rotated-digits.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/788.Rotated_Digits/rotated-digits.java)
 
+### 79.Word_Search
+
+* [word-search.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/79.Word_Search/word-search.java)
+
 ### 791.Custom_Sort_String
 
 * [longest-word-in-dictionary.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/791.Custom_Sort_String/longest-word-in-dictionary.java)

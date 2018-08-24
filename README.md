@@ -260,6 +260,7 @@
 * [783.Minimum_Distance_Between_BST_Nodes](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/783.Minimum_Distance_Between_BST_Nodes.md)
 * [784.Letter_Case_Permutation](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/784.Letter_Case_Permutation.md)
 * [788.Rotated_Digits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/788.Rotated_Digits.md)
+* [79.Word_Search](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/79.Word_Search.md)
 * [791.Custom_Sort_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/791.Custom_Sort_String.md)
 * [796.Rotate_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/796.Rotate_String.md)
 * [797.All_Paths_From_Source_to_Target](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/797.All_Paths_From_Source_to_Target.md)
