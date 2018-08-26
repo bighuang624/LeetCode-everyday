@@ -606,6 +606,10 @@
 
 * [next-greater-element-i.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/496.Next_Greater_Element_I/next-greater-element-i.java)
 
+### 50.Pow(x,n)
+
+* [powx-n.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/50.Pow(x,n)/powx-n.java)
+
 ### 500.Keyboard_Row
 
 * [keyboard-row.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/500.Keyboard_Row/keyboard-row.java)
