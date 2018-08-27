@@ -266,6 +266,10 @@
 
 * [contains-duplicate-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/219.Contains_Duplicate_II/contains-duplicate-ii.java)
 
+### 225.Implement_Stack_using_Queues
+
+* [implement-stack-using-queues.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/225.Implement_Stack_using_Queues/implement-stack-using-queues.java)
+
 ### 226.Invert_Binary_Tree
 
 * [invert-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/226.Invert_Binary_Tree/invert-binary-tree.java)
