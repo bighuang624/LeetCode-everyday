@@ -266,6 +266,10 @@
 
 * [contains-duplicate-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/219.Contains_Duplicate_II/contains-duplicate-ii.java)
 
+### 223.Rectangle_Area
+
+* [rectangle-area.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/223.Rectangle_Area/rectangle-area.java)
+
 ### 225.Implement_Stack_using_Queues
 
 * [implement-stack-using-queues.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/225.Implement_Stack_using_Queues/implement-stack-using-queues.java)
