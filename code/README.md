@@ -914,6 +914,10 @@
 
 * [climbing-stairs.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/70.Climbing_Stairs/climbing-stairs.java)
 
+### 704.Binary_Search
+
+* [binary-search.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/704.Binary_Search/binary-search.java)
+
 ### 709.To_Lower_Case
 
 * [to-lower-case.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/709.To_Lower_Case/to-lower-case.java)
