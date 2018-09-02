@@ -886,6 +886,10 @@
 
 * [repeated-string-match.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/686.Repeated_String_Match/repeated-string-match.java)
 
+### 687.Longest_Univalue_Path
+
+* [longest-univalue-path.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/687.Longest_Univalue_Path/longest-univalue-path.java)
+
 ### 69.Sqrt(x)
 
 * [sqrtx.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/69.Sqrt(x)/sqrtx.java)

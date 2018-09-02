@@ -235,6 +235,7 @@
 * [680.Valid_Palindrome_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/680.Valid_Palindrome_II.md)
 * [684.Redundant_Connection](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/684.Redundant_Connection.md)
 * [686.Repeated_String_Match](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/686.Repeated_String_Match.md)
+* [687.Longest_Univalue_Path](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/687.Longest_Univalue_Path.md)
 * [69.Sqrt(x)](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/69.Sqrt(x).md)
 * [690.Employee_Importance](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/690.Employee_Importance.md)
 * [693.Binary_Number_with_Alternating_Bits](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/693.Binary_Number_with_Alternating_Bits.md)
