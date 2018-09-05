@@ -244,6 +244,7 @@
 * [697.Degree_of_an_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/697.Degree_of_an_Array.md)
 * [7.Reverse_Integer](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/7.Reverse_Integer.md)
 * [70.Climbing_Stairs](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/70.Climbing_Stairs.md)
+* [700.Search_in_a_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/700.Search_in_a_Binary_Search_Tree.md)
 * [704.Binary_Search](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/704.Binary_Search.md)
 * [709.To_Lower_Case](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/709.To_Lower_Case.md)
 * [717.1-bit_and_2-bit_Characters](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/717.1-bit_and_2-bit_Characters.md)
