@@ -750,6 +750,10 @@
 
 * [shortest-unsorted-continuous-subarray.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/581.Shortest_Unsorted_Continuous_Subarray/shortest-unsorted-continuous-subarray.java)
 
+### 590.N-ary_Tree_Postorder_Traversal
+
+* [n-ary-tree-postorder-traversal.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/590.N-ary_Tree_Postorder_Traversal/n-ary-tree-postorder-traversal.java)
+
 ### 594.Longest_Harmonious_Subsequence
 
 * [longest-harmonious-subsequence.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/594.Longest_Harmonious_Subsequence/longest-harmonious-subsequence.java)
