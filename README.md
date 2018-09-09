@@ -289,6 +289,7 @@
 * [849.Maximize_Distance_to_Closest_Person](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/849.Maximize_Distance_to_Closest_Person.md)
 * [86.Partition_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/86.Partition_List.md)
 * [861.Score_After_Flipping_Matrix](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/861.Score_After_Flipping_Matrix.md)
+* [876.Middle_of_the_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/876.Middle_of_the_Linked_List.md)
 * [88.Merge_Sorted_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/88.Merge_Sorted_Array.md)
 * [9.Palindrome_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/9.Palindrome_Number.md)
 * [92.Reverse_Linked_List_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/92.Reverse_Linked_List_II.md)
