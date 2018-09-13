@@ -1106,6 +1106,10 @@
 
 * [score-after-flipping-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/861.Score_After_Flipping_Matrix/score-after-flipping-matrix.java)
 
+### 872.Leaf-Similar_Trees
+
+* [leaf-similar-trees.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/872.Leaf-Similar_Trees/leaf-similar-trees.java)
+
 ### 876.Middle_of_the_Linked_List
 
 * [middle-of-the-linked-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/876.Middle_of_the_Linked_List/middle-of-the-linked-list.java)
