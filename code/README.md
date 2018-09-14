@@ -862,6 +862,10 @@
 
 * [non-decreasing-array.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/665.Non-decreasing_Array/non-decreasing-array.java)
 
+### 669.Trim_a_Binary_Search_Tree
+
+* [trim-a-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/669.Trim_a_Binary_Search_Tree/trim-a-binary-search-tree.java)
+
 ### 67.Add_Binary
 
 * [add-binary.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/67.Add_Binary/add-binary.java)

@@ -229,6 +229,7 @@
 * [66.Plus_One](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/66.Plus_One.md)
 * [662.Maximum_Width_of_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/662.Maximum_Width_of_Binary_Tree.md)
 * [665.Non-decreasing_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/665.Non-decreasing_Array.md)
+* [669.Trim_a_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/669.Trim_a_Binary_Search_Tree.md)
 * [67.Add_Binary](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/67.Add_Binary.md)
 * [671.Second_Minimum_Node_In_a_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/671.Second_Minimum_Node_In_a_Binary_Tree.md)
 * [672.Bulb_Switcher_II](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/672.Bulb_Switcher_II.md)
