@@ -1106,6 +1106,10 @@
 
 * [partition-list.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/86.Partition_List/partition-list.java)
 
+### 860.Lemonade_Change
+
+* [lemonade-change.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/860.Lemonade_Change/lemonade-change.java)
+
 ### 861.Score_After_Flipping_Matrix
 
 * [score-after-flipping-matrix.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/861.Score_After_Flipping_Matrix/score-after-flipping-matrix.java)

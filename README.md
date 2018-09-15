@@ -290,6 +290,7 @@
 * [841.Keys_and_Rooms](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/841.Keys_and_Rooms.md)
 * [849.Maximize_Distance_to_Closest_Person](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/849.Maximize_Distance_to_Closest_Person.md)
 * [86.Partition_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/86.Partition_List.md)
+* [860.Lemonade_Change](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/860.Lemonade_Change.md)
 * [861.Score_After_Flipping_Matrix](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/861.Score_After_Flipping_Matrix.md)
 * [872.Leaf-Similar_Trees](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/872.Leaf-Similar_Trees.md)
 * [876.Middle_of_the_Linked_List](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/876.Middle_of_the_Linked_List.md)
