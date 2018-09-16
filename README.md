@@ -147,6 +147,7 @@
 * [414.Third_Maximum_Number](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/414.Third_Maximum_Number.md)
 * [415.Add_Strings](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/415.Add_Strings.md)
 * [419.Battleships_in_a_Board](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/419.Battleships_in_a_Board.md)
+* [429.N-ary_Tree_Level_Order_Traversal](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/429.N-ary_Tree_Level_Order_Traversal.md)
 * [434.Number_of_Segments_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/434.Number_of_Segments_in_a_String.md)
 * [438.Find_All_Anagrams_in_a_String](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/438.Find_All_Anagrams_in_a_String.md)
 * [441.Arranging_Coins](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/441.Arranging_Coins.md)
