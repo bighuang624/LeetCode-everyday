@@ -228,6 +228,7 @@
 * [654.Maximum_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/654.Maximum_Binary_Tree.md)
 * [657.Judge_Route_Circle](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/657.Judge_Route_Circle.md)
 * [66.Plus_One](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/66.Plus_One.md)
+* [661.Image_Smoother](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/661.Image_Smoother.md)
 * [662.Maximum_Width_of_Binary_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/662.Maximum_Width_of_Binary_Tree.md)
 * [665.Non-decreasing_Array](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/665.Non-decreasing_Array.md)
 * [669.Trim_a_Binary_Search_Tree](https://github.com/bighuang624/LeetCode-everyday/blob/master/notes/669.Trim_a_Binary_Search_Tree.md)

@@ -858,6 +858,10 @@
 
 * [plus-one.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/66.Plus_One/plus-one.java)
 
+### 661.Image_Smoother
+
+* [image-smoother.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/661.Image_Smoother/image-smoother.java)
+
 ### 662.Maximum_Width_of_Binary_Tree
 
 * [maximum-width-of-binary-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/662.Maximum_Width_of_Binary_Tree/maximum-width-of-binary-tree.java)
