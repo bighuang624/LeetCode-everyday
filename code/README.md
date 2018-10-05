@@ -946,6 +946,10 @@
 
 * [search-in-a-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/700.Search_in_a_Binary_Search_Tree/search-in-a-binary-search-tree.java)
 
+### 701.Insert_into_a_Binary_Search_Tree
+
+* [insert-into-a-binary-search-tree.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/701.Insert_into_a_Binary_Search_Tree/insert-into-a-binary-search-tree.java)
+
 ### 704.Binary_Search
 
 * [binary-search.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/704.Binary_Search/binary-search.java)
