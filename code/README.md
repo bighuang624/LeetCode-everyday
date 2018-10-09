@@ -453,6 +453,10 @@
 
 * [intersection-of-two-arrays-ii.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/350.Intersection_of_Two_Arrays_II/intersection-of-two-arrays-ii.java)
 
+### 36.Valid_Sudoku
+
+* [valid-sudoku.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/36.Valid_Sudoku/valid-sudoku.java)
+
 ### 367.Valid_Perfect_Square
 
 * [valid-perfect-square.java](https://github.com/bighuang624/LeetCode-everyday/blob/master/code/367.Valid_Perfect_Square/valid-perfect-square.java)
